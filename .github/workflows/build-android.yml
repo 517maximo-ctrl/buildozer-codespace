@@ -20,8 +20,8 @@ jobs:
         run: |
           podman run --rm \
             -v ${{ github.workspace }}:/home/buildozer/buildozer \
-            docker.io/kivy/buildozer:latest \
-            env BUILDOZER_ALLOW_ROOT=1 buildozer -v android debug
+            ghcr.io/kivy/buildozer:latest \
+            buildozer -v android debug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
