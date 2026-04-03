@@ -18,7 +18,9 @@ jobs:
 
       - name: Build APK using Buildozer (Podman)
         run: |
-          podman run --rm -v ${{ github.workspace }}:/home/buildozer/buildozer \
+          podman run --rm \
+            -e BUILDOZER_ALLOW_ROOT=1 \
+            -v ${{ github.workspace }}:/home/buildozer/buildozer \
             docker.io/kivy/buildozer:latest \
             buildozer -v android debug
 
