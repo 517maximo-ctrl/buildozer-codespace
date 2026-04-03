@@ -11,17 +11,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Podman
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y podman
-
-      - name: Build APK using Buildozer (Podman)
-        run: |
-          podman run --rm \
-            -v ${{ github.workspace }}:/home/buildozer/buildozer \
-            ghcr.io/kivy/buildozer:latest \
-            buildozer -v android debug
+      - name: Build with Buildozer
+        uses: kivy/buildozer-action@master
+        with:
+          workdir: .
+          buildozer_version: stable
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
