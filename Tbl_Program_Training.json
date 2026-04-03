@@ -1,0 +1,1757 @@
+ID;SETTIMANA;GIORNO;TIPOCORSA;TIPOATLETA;DESCRIZION;RITMO1;RITMO2;TIPO;BASEDAY;RITMO3;RITMO4;LONGTIME;TPROGRAM
+1;1;1;CROSS;;FL 55' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+2;1;2;CROSS;;FL 50' a X'XX"  [Ritmo 88% della soglia];88;;;7;;;1;0
+3;1;3;CROSS;;FL 15' Riscaldamento- Ripetute 10*500 m. a X'XX"- Recupero 1'45" al passo oppure FL;106;;Lavori;7;;9;1;0
+4;1;4;CROSS;;FL 60' a X'XX";80;;;7;;;1;0
+5;1;5;CROSS;;FL 50' a X'XX" in ambiente collinare + Allunghi 8 x 100 m.;80;;;7;;;1;0
+6;1;6;CROSS;;FL 30' a X'XX" + Allunghi 4 x 200 m.;80;;;7;;;1;0
+7;1;7;CROSS;;Cross oppure CV 30' a X'XX" su terreno tipo campestre;100;;;7;;7;1;0
+8;2;1;CROSS;;FL 55' a X'XX";80;;;7;;;1;0
+9;2;2;CROSS;4;FL 70' a X'XX";80;;;7;;;1;0
+10;2;3;CROSS;;FL 15'- Ripetute 8*1000 m. a X'XX"- recupero 2'45" al passo oppure FL;100;;Lavori;7;;10;1;0
+11;2;4;CROSS;;FL 40' a X'XX" + allunghi 12 x 100 m.;80;;;7;;;1;0
+12;2;5;CROSS;;FL 20' a X'XX" + FM 25' a X'XX";80;90;;7;;;1;0
+13;2;6;CROSS;;FL 50' a X'XX" + Allunghi 5 x 100 m.;80;;;7;;;1;0
+14;2;7;CROSS;;Cross oppure FM 40' a X'XX" su terreno tipo campestre;90;;;7;;7;1;0
+15;3;1;CROSS;;FL 50' a X'XX";80;;;7;;;1;0
+16;3;2;CROSS;;FL 45' a X'XX" + Allunghi 12 x 100 m.;80;;;7;;;1;0
+17;3;3;CROSS;;FL 20' Riscaldamento 20'- Ripetute 12*400 m. a X'XX"- Recupero 1'20" da fermo;106;;Lavori;7;;10;1;0
+18;3;4;CROSS;;FL 60' a X'XX";80;;;7;;;1;0
+19;3;5;CROSS;;FL 20' a X'XX" + FM 15' a X'XX" + CV 10' a X'XX";80;90;;7;100;;1;0
+20;3;6;CROSS;;FL 25' a X'XX" + Allunghi 5 x 150 m.;80;;;7;;;1;0
+21;3;7;CROSS;;Cross oppure CV 30' a X'XX" su terreno tipo campestre;100;;;7;;7;1;0
+22;4;1;CROSS;;FL 50' a X'XX";80;;;7;;;1;0
+23;4;2;CROSS;4;FL 70' a X'XX" [ritmo 88% della soglia];88;;;7;;;1;0
+24;4;3;CROSS;;FL 15' Riscaldamento- Ripetute 4*2000 m. a X'XX" - Recupero 4' al passo oppure FLL;97;;Lavori;7;;11;1;0
+25;4;4;CROSS;;FL 50' a X'XX"+ Allunghi 15 x 100 m.;80;;;7;;;1;0
+26;4;5;CROSS;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;;;1;0
+27;4;6;CROSS;;Riposo oppure FL 30' a X'XX" + Allunghi 7 x 100 m.;80;;;7;;;1;0
+28;4;7;CROSS;;Cross clou;97;;;7;;7;1;0
+29;1;1;MEZZA MARATONA;;FL 60' a X'XX";80;;;7;;;1;0
+30;1;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 7*1000 m. a X'XX" , Recupero 500 m FL;100;;Lavori;7;;12;1;0
+31;1;4;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 8 x 100 m;80;;;7;;;1;0
+32;1;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;;;1;0
+33;1;7;MEZZA MARATONA;;Gara su strada max 13 km  [Ritmo Mezza Maratona - 15"] oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;;;7;;;1;0
+34;2;1;MEZZA MARATONA;4;FL 70' a X'XX";80;;;7;;;1;0
+35;2;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 4*2000 m. a X'XX", Recupero 500 m. FL;97;;Lavori;7;;14;1;0
+36;2;4;MEZZA MARATONA;;FL 60' a X'XX" + 10x400 m. Allunghi;80;;;7;;;1;0
+37;2;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + FL 15' a X'X" + FM 15' a X'XX";80;90;;7;80;90;1;0
+38;2;7;MEZZA MARATONA;;FL 20' a X'XX" + FM 45' a X'XX" + FL 15' a X'XX';80;90;;7;80;;1;0
+39;3;1;MEZZA MARATONA;;FL 80' a X'XX";80;;;7;;;1;0
+40;3;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 2*3000 m. a X'XX" + 2*2000 m. a X'XX"- Recupero 500 m al passo;90;97;Lavori;7;;12;1;0
+41;3;4;MEZZA MARATONA;4;FL 70' a X'XX";80;;;7;;;1;0
+42;3;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 20' a X'XX" + 1 x 3000 m a X'XX";80;90;;7;97;;1;0
+43;3;7;MEZZA MARATONA;;Gara su strada 10 km [Ritmo Mezza Maratona - 20"] oppure FL 20' a X'XX" + FM 60' a X'XX" + FL 10' a X'XX";80;90;;7;80;;1;0
+44;4;1;MEZZA MARATONA;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+45;4;3;MEZZA MARATONA;;FL 15' Riscaldamento- 6*1000 m a X'XX" - Recupero 500 m. FL;100;;Lavori;7;;11;1;0
+46;4;4;MEZZA MARATONA;;FL 40' a X'XX";80;;;7;;;1;0
+47;4;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + CV 10' a X'XX";80;90;;7;100;;1;0
+48;4;7;MEZZA MARATONA;;Mezza Maratona Clou;100;;;7;;;1;0
+49;1;1;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];88;;;7;;;1;0
+50;1;2;MARATONA;;FL 40' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX";80;90;;7;80;;1;0
+51;1;3;MARATONA;;FL 20' Riscaldamento + 10*1000 m. a X'XX"- Recupero FL 3';100;;Lavori;7;;16;1;0
+52;1;4;MARATONA;;FL 80' a X'XX";80;0;;7;;;1;0
+53;1;5;MARATONA;;FL 15' a X'XX" + FM 50' a X'XX" + 10' defaticamento;80;90;;7;;;1;0
+54;1;6;MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;;;1;0
+55;1;7;MARATONA;;Gara Podistica (ideale una mezza maratona da correre a Ritmo Maratona - 10") oppure Km. 30 a X'XX" [Ritmo 88% della soglia];88;;;7;;;1;0
+56;2;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+57;2;2;MARATONA;;FL 20' Riscaldamento + 2*3000 m a X'XX" + 3*2000 m a X'XX"- Recupero fra le serie FL 5';97;100;Lavori;7;;14;1;0
+58;2;3;MARATONA;;FL 90' a X'XX" su percorso collinare;80;;;7;;;1;0
+59;2;4;MARATONA;;FL 80' a X'XX" [Ritmo 88% della soglia] su percorso misto;88;0;;7;;13;1;0
+60;2;5;MARATONA;;FL 15' a X'XX" + FM 60' a X'XX";80;90;;7;;;1;0
+61;2;6;MARATONA;;FL 40' a X'XX"+ FM 15' a X'XX";80;90;;7;;;1;0
+62;2;7;MARATONA;;Gara podistica non superiore a 15 km [Ritmo Maratona - 10") oppure Km. 25 a X'XX" [Ritmo 88% della soglia];88;;;7;;;1;0
+63;3;1;MARATONA;;FL 40' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+64;3;2;MARATONA;;FL 40' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX";80;90;;7;80;;1;0
+65;3;3;MARATONA;;FL 15' Riscaldamento + 3*2000 a X'XX" + 4*1000 m. a X'XX"- Recupero fra le serie  4' al passo oppure FLL;100;100;Lavori;7;;14;1;0
+66;3;4;MARATONA;;FL 80' a X'XX"  + Allunghi 7 x 100 m.;80;0;;7;;;1;0
+67;3;5;MARATONA;;FL 15' a X'XX" + FM 60' a X'XX";80;90;;7;;;1;0
+68;3;6;MARATONA;;FL 40' a X'XX" + FM 10' a X'XX" + 10' defaticamento;80;90;;7;;;1;0
+69;3;7;MARATONA;;Gara Podistica non superiore a 13 km oppure FM 50' a X'XX";90;;;7;;;1;0
+70;4;1;MARATONA;;FL 60' a X'XX";80;;;7;;;1;0
+71;4;2;MARATONA;;FL 15' Riscaldamento + 8*1000 a X'XX"- Recupero fra le serie  4' al passo oppure FLL;100;100;Lavori;7;;12;1;0
+72;4;3;MARATONA;;FL 40' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+73;4;4;MARATONA;;FL 40' a X'XX" [Ritmo 88% della soglia] su percorso misto;88;;;7;;13;1;0
+74;4;5;MARATONA;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;;;1;0
+75;4;6;MARATONA;;Riposo oppure FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;;;1;0
+76;4;7;MARATONA;;Maratona Clou;0;0;;7;;21;1;0
+77;1;1;STRADA 10-14 KM;;FL 55' a X'XX" + Allunghi 5 x 100 m;80;;;7;;;2;0
+78;1;3;STRADA 10-14 KM;;Riscaldamento FL 15' + Ripetute 6*1000 m. a X'XX"- Recupero 3';100;;Lavori;7;;9;2;0
+79;1;4;STRADA 10-14 KM;;FL 40' a X'XX" [Ritmo 88% della soglia];88;;;7;;;2;0
+80;1;5;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 10*400 m. a X'XX"- Recupero 1' 30";100;;Lavori;7;;7;2;0
+81;1;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX";92;;;7;;;2;0
+82;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 6 x 100 m;80;;;7;;;2;0
+83;2;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 3*2000 m. a X'XX"- Recupero 4';100;;Lavori;7;;9;2;0
+84;2;4;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 8 x 100 m.;80;;;7;;;2;0
+85;2;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 30' a X'XX";80;90;;7;;;2;0
+86;2;7;STRADA 10-14 KM;;Gara Podistica oppure FM 45' a X'XX";92;;;7;;;2;0
+87;3;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 8 x 100 m;80;;;7;;;2;0
+88;3;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 1*3000 m. a X'XX" + 1*2000 m. a X'XX" + 2*1000 m. a X'XX" - Recupero 4';97;100;Lavori;7;103;9;2;0
+89;3;4;STRADA 10-14 KM;;FL 45' a X'XX" + Allunghi 5 x 100 m.;80;;;7;;;2;0
+90;3;5;STRADA 10-14 KM;;FL 25' a X'XX" + FM 30' a X'XX";80;92;;7;;;2;0
+91;3;7;STRADA 10-14 KM;;Gara Podistica oppure CV 35' a X'XX";100;;;7;;;2;0
+92;4;1;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;2;0
+93;4;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 7*1000 m. a X'XX" - Recupero 3';103;;Lavori;7;;10;2;0
+94;4;4;STRADA 10-14 KM;;FL 45' a X'XX" + allunghi 5 x 100 m.;80;;;7;;;2;0
+95;4;5;STRADA 10-14 KM;;FL 15' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;;2;0
+96;4;7;STRADA 10-14 KM;;Gara Podistica oppure FM 25' a X'XX" + CV 15' a X'XX";90;100;;7;;;2;0
+97;5;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 5 x 100 m.;80;;;7;;;2;0
+98;5;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 8*800 m. a X'XX"- Recupero 3';103;;Lavori;7;;9;2;0
+99;5;4;STRADA 10-14 KM;;FL 50' a X'XX" [Ritmo 88% della soglia] + Allunghi 5 x 150 m.;88;;;7;;;2;0
+100;5;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;100;;2;0
+101;5;7;STRADA 10-14 KM;;Gara Podistica oppure FM 40' a X'XX" + CV 10' a X'XX";90;97;;7;;;2;0
+102;6;1;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 6 x 100 m;80;;;7;;;2;0
+103;6;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 3*2000 m. a X'XX"- Recupero 4';100;;Lavori;7;;9;2;0
+104;6;4;STRADA 10-14 KM;4;FL 60' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 6 x 100 m.;88;;;7;;;2;0
+105;6;5;STRADA 10-14 KM;;FL 15' a X'XX" + FM 30' a X'XX" + CV 10' a X'XX";80;90;;7;100;;2;0
+106;6;7;STRADA 10-14 KM;;Gara Podistica oppure FM 50' a X'XX";90;;;7;;;2;0
+107;7;1;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 8 x 100 m.;80;;;7;;;2;0
+108;7;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 2*2000 m. a X'XX" + 3*1000 m. a X'XX"- Recupero 4';100;103;Lavori;7;;10;2;0
+109;7;4;STRADA 10-14 KM;4;FL 60' a X'XX"  [Ritmo 88% della soglia] + Allunghi 5 x 100 m.;88;;;7;;;2;0
+110;7;5;STRADA 10-14 KM;;FL 15' a X'XX" + FM 30' a X'XX";80;92;;7;;;2;0
+111;7;7;STRADA 10-14 KM;;Gara Podistica oppure CV 40' a X'XX";100;;;7;;;2;0
+112;8;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m;80;;;7;;;2;0
+113;8;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 7*1000 m. a X'XX" - Recupero 3';103;;Lavori;7;;10;2;0
+114;8;4;STRADA 10-14 KM;;FL 50' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 4 x 100 m.;88;;;7;;;2;0
+115;8;5;STRADA 10-14 KM;;FL 15' a X'XX" + FM 25' a X'XX";80;90;;7;;;2;0
+116;8;7;STRADA 10-14 KM;;Gara Podistica Clou;0;0;;7;;10;2;0
+117;1;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;;;7;;;3;0
+118;1;2;MEZZA MARATONA;;FL 20' a X'XX" +  6x100 m. in salita pendenza 6-8% recupero FL in discesa + FL 15' a X'XX" + FM 10' a X'XX" + 10' def.;80;80;;7;92;0;3;0
+119;1;3;MEZZA MARATONA;4;FL 75' a X'XX" + Allunghi  10 x 100 m. + stretching;80;;;7;;;3;0
+120;1;4;MEZZA MARATONA;;FL 20' a X'XX" + 2x(6x100 m. in salita pendenza 6-8%) recupero FL in discesa, recupero fra le serie FL 10'  a X'XX" + FM 10' a X'XX" + 10' def.;80;80;;7;92;0;3;0
+121;1;5;MEZZA MARATONA;;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;;;7;;;3;0
+122;1;6;MEZZA MARATONA;;FL 20' a X'XX"  + FM 40' a X'XX" su percorso collinare + 10' def;80;90;;7;;;3;0
+123;1;7;MEZZA MARATONA;;Gara podistica oppure FL 90' a X'XX" + Allunghi  10 x 100 + stretching;88;;;7;;;3;0
+124;2;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+125;2;2;MEZZA MARATONA;;FL 20' a X'XX" + 8x100 m. in salita pendenza 6-8% recupero FL in discesa + FL 15' a X'XX" + CV 10' a X'XX" + 10' def.;80;80;;7;97;0;3;0
+126;2;3;MEZZA MARATONA;;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+127;2;4;MEZZA MARATONA;;FL 20 a X'XX" + 2x(8x100 m. in salita pendenza 6-8%) recupero FL in discesa, recupero fra le serie FL 10' a X'XX" + FM 10' a X'XX" + 10' def.;80;80;;7;97;0;3;0
+128;2;5;MEZZA MARATONA;4;FL 75' a X'XX" + Allunghi  10 x 100 m. + stretching;80;0;;7;0;0;3;0
+129;2;6;MEZZA MARATONA;;FL 20' a X'XX" + FM 45' a X'XX" su percorso collinare + 10' def;80;90;;7;0;0;3;0
+130;2;7;MEZZA MARATONA;;Gara podistica 10-13 km  [Ritmo Mezza Maratona - 15"]  oppure FL 90' a X'XX" + Allunghi 10 x 100 + stretching;88;0;;7;0;12;3;0
+131;3;1;MEZZA MARATONA;;FL 60' a X'XX" + 10 x 100 m. Allunghi + stretching;80;0;;7;0;0;3;0
+132;3;2;MEZZA MARATONA;;FL 20' a X'XX" + 10x100 m. in salita pendenza 6-8% recupero FL in discesa + FL 15' a X'XX" + FM 10' a X'XX" + 10' def.;80;80;;7;92;0;3;0
+133;3;3;MEZZA MARATONA;;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+134;3;4;MEZZA MARATONA;;FL 20' a X'XX" + 2x(10x100 m. in salita pendenza 6-8%) recupero FL in discesa, recupero fra le serie FL 10' a X'XX" + CV 10' a X'XX" + 10' def.;80;80;;7;97;;3;0
+135;3;5;MEZZA MARATONA;4;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+136;3;6;MEZZA MARATONA;;FL 20' a X'XX" + FM 50' a X'XX" su percorso collinare + 10' def;80;90;;7;0;0;3;0
+137;3;7;MEZZA MARATONA;;Gara podistica 13 km  [Ritmo Mezza Maratona - 15"]  oppure Km. 15 a X'XX" [Ritmo 88% della soglia] + stretching;88;0;;7;0;0;3;0
+138;4;1;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+139;4;2;MEZZA MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+140;4;3;MEZZA MARATONA;;Riscaldamento FL 15'  + 2*5000 m. a X'XX" + 10' def.;97;0;Lavori;7;0;13;3;0
+141;4;4;MEZZA MARATONA;;FL 50' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;;3;0
+142;4;5;MEZZA MARATONA;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+143;4;6;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX" [se domenica gara ridurre FL del 30%];80;90;;7;0;0;3;0
+144;4;7;MEZZA MARATONA;;Gara podistica  10 km  [Ritmo Mezza Maratona - 15"] oppure FM 50' a X'XX" + 10' def;90;0;;7;0;10;3;0
+145;5;1;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+146;5;2;MEZZA MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+147;5;3;MEZZA MARATONA;;Riscaldamento FL 15' + 10*1000 m. a X'XX" recupero 3'30 al passo o FLL;100;0;Lavori;7;0;12;3;0
+148;5;4;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+149;5;5;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;3;0
+150;5;6;MEZZA MARATONA;;FM 50' a X'XX" su percorso collinare [se domenica gara ridurre FM del 30%];90;0;;7;0;0;3;0
+151;5;7;MEZZA MARATONA;;Gara Podistica max 12 km  [Ritmo Mezza Maratona - 10"] oppure Km. 18 a X'XX" + stretching;88;0;;7;0;12;3;0
+152;6;1;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+153;6;2;MEZZA MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+154;6;3;MEZZA MARATONA;;Riscaldamento FL 15' + 2*3000 m. a X'XX" recupero 3'30 FLL + 2*2000 m. a X'XX";97;100;Lavori;7;0;13;3;0
+155;6;4;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+156;6;5;MEZZA MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;90;;7;0;0;3;0
+157;6;6;MEZZA MARATONA;;FL 15' a X'XX" + FM 55' a X'XX" su percorso collinare + 10' def [se prevista la gara Ridurre il tempo del FM del 30%];80;90;;7;0;0;3;0
+158;6;7;MEZZA MARATONA;;Gara Podistica max 12 km  [Ritmo Mezza Maratona - 10"] oppure Km. 20 a X'XX" + stretching;88;0;;7;0;0;3;0
+159;7;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+160;7;2;MEZZA MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+161;7;3;MEZZA MARATONA;;Riscaldamento FL 15' + 1*3000 m. a X'XX" + 1*2000 m. a X'XX" + 1*1000 m. a X'XX" recupero 3'30 FLL;90;97;Lavori;7;100;11;3;0
+162;7;4;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+163;7;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX" + FM 15' a X'XX";80;90;;7;80;90;3;0
+164;7;6;MEZZA MARATONA;;FL 20' a X'XX"  + FM 60' a X'XX" su percorso collinare + 10' def [se prevista la gara Ridurre il tempo del FM del 40%];80;90;;7;0;0;3;0
+165;7;7;MEZZA MARATONA;;Gara Podistica max 12 km  [Ritmo Mezza Maratona - 10"] oppure Km. 25 a X'XX" + stretching;80;0;;7;0;12;3;0
+166;8;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;7;0;0;3;0
+167;8;2;MEZZA MARATONA;;Riscaldamento FL 20' + 10*400 a X'XX" recupero 1'30" FL  + 10' def.;103;0;Lavori;7;0;8;3;0
+168;8;3;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+169;8;4;MEZZA MARATONA;;Riscaldamento FL 20'  + 1*5000 m. a X'XX" + 10' def.;100;0;Lavori;7;0;9;3;0
+170;8;5;MEZZA MARATONA;;FL 40' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+171;8;6;MEZZA MARATONA;;FL 20' a X'XX" + FM 40' a X'XX"  [se prevista la gara Ridurre il tempo del FM del 30%];80;90;;7;0;0;3;0
+172;8;7;MEZZA MARATONA;;Gara podistica max 12 km  [Ritmo Mezza Maratona - 15"]  oppure FM 50' a X'XX" + 10' def;90;0;;7;0;12;3;0
+173;9;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+174;9;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+175;9;3;MEZZA MARATONA;;Riscaldamento FL 15'  + 4*2000 m. a X'XX" recupero 4' FL + 10' def.;97;0;Lavori;7;0;12;3;0
+176;9;4;MEZZA MARATONA;;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+177;9;5;MEZZA MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+178;9;6;MEZZA MARATONA;;FL 20' a X'XX"  + FM 50' a X'XX" su percorso collinare + 10' def  [se prevista la gara Ridurre il tempo del FM del 40%];80;90;;7;0;0;3;0
+179;9;7;MEZZA MARATONA;;Gara podistica max 10 km  [Ritmo 95%]  oppure FL 40' a X'XX" [Ritmo 88% della soglia] + CV 15' a X'XX" + stretching;88;97;;7;0;10;3;0
+180;10;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+181;10;2;MEZZA MARATONA;;FL 20' a X'XX" + 2*4000 m. a X'XX" recupero 5' FL + 10' def.;97;0;Lavori;7;0;12;3;0
+182;10;3;MEZZA MARATONA;;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+183;10;4;MEZZA MARATONA;;FL 20' a X'XX" + 3*3000 m. a X'XX" recupero 5' FL + 10' def.;97;0;Lavori;7;0;12;3;0
+184;10;5;MEZZA MARATONA;4;FL 75' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+185;10;6;MEZZA MARATONA;;FL 20' a X'XX" + FM 50' a X'XX" su percorso collinare + 10' def  [se prevista la gara Ridurre il tempo del FM del 40%];80;90;;7;0;0;3;0
+186;10;7;MEZZA MARATONA;;Gara podistica max 12 km  [Ritmo Mezza Maratona - 15"] oppure Km. 15 a X'XX" [Ritmo 88% della soglia] + stretching;88;0;;7;0;12;3;0
+187;11;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+188;11;2;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;3;0
+189;11;3;MEZZA MARATONA;;Riscaldamento FL 15' + 12*1000 m. a X'XX" recupero 3' al passo o FLL;100;0;Lavori;7;0;12;3;0
+190;11;4;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+191;11;5;MEZZA MARATONA;4;FL 75' a X'XX" [Ritmo 88% della soglia] + stretching;88;0;;7;0;0;3;0
+192;11;6;MEZZA MARATONA;;FL 60' a X'XX" + CV 10' a X'XX" [se prevista la gara Ridurre il tempo del FL del 50%];80;97;;7;0;0;3;0
+193;11;7;MEZZA MARATONA;;Gara podistica max 10 km  [Ritmo 95%]  oppure FL 50' a X'XX" [Ritmo 88% della soglia] + CV 15' a X'XX";88;97;;7;0;0;3;0
+194;12;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m. + stretching;80;0;;7;0;0;3;0
+195;12;2;MEZZA MARATONA;4;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+196;12;3;MEZZA MARATONA;;Riscaldamento FL 15' + 10*400 m. a X'XX" recupero 3'30 al passo o FLL;103;0;Lavori;7;0;8;3;0
+197;12;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;3;0
+198;12;5;MEZZA MARATONA;4;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+199;12;6;MEZZA MARATONA;;Riposo oppure FL 20' + FM 15' a X'XX" + Allunghi 3 x 50 m.;90;0;;7;0;0;3;0
+200;12;7;MEZZA MARATONA;;Mezza maratona Clou;80;0;;7;0;21;3;0
+201;1;1;MEZZA MARATONA;4;FL 70' a X'XX";80;;;4;;;5;0
+202;1;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;;;5;0
+203;1;5;MEZZA MARATONA;;FL 75' a X'XX" [Ritmo 88% della soglia];88;;;4;;;5;0
+204;1;7;MEZZA MARATONA;;Gara podistica 10 km [Ritmo Mezza Maratona - 10"] oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;;;4;;;5;0
+205;2;1;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;4;0;0;5;0
+206;2;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+207;2;5;MEZZA MARATONA;;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;5;0
+208;2;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 60' a X'XX";80;0;;4;0;10;5;0
+209;3;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+210;3;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+211;3;5;MEZZA MARATONA;;FL 85' a X'XX";80;0;;4;0;0;5;0
+212;3;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+213;4;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+214;4;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+215;4;5;MEZZA MARATONA;;FL 90' a X'XX";80;0;;4;0;0;5;0
+216;4;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;0;5;0
+217;5;1;MEZZA MARATONA;;FL 50' a X'XX";80;0;;4;0;0;5;0
+218;5;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;4;97;0;5;0
+219;5;5;MEZZA MARATONA;;FL 60' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;0;5;0
+220;5;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 60' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+221;6;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+222;6;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+223;6;5;MEZZA MARATONA;4;FL 80' a X'XX";80;0;;4;0;0;5;0
+224;6;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 60' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+225;7;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+226;7;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+227;7;5;MEZZA MARATONA;4;FL 85' a X'XX";80;0;;4;0;0;5;0
+228;7;7;MEZZA MARATONA;;Gara podistica 12 km oppure FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+229;8;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+230;8;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+231;8;5;MEZZA MARATONA;;FL 90' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;0;5;0
+232;8;7;MEZZA MARATONA;;Gara podistica 10 km oppure FM 60' a X'XX";90;0;;4;0;10;5;0
+233;9;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+234;9;3;MEZZA MARATONA;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa;80;90;;4;0;0;5;0
+235;9;5;MEZZA MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+236;9;7;MEZZA MARATONA;;Gara podistica 12 km  [Ritmo Mezza Maratona-10"] oppure FL 80' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+237;10;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+238;10;3;MEZZA MARATONA;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa;80;90;;4;0;0;5;0
+239;10;5;MEZZA MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+240;10;7;MEZZA MARATONA;;Gara podistica 10 km  [Ritmo 97%] oppure FM 60' a X'XX";90;0;;4;0;10;5;0
+241;11;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+242;11;3;MEZZA MARATONA;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 20' a X'XX" + FM 15' a X'XX" + defaticamento;80;80;;4;92;0;5;0
+243;11;5;MEZZA MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+244;11;7;MEZZA MARATONA;;Gara podistica 12-15 km  [Ritmo Mezza Maratona - 10"] oppure Km. 20 a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+245;12;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+246;12;3;MEZZA MARATONA;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 20' a X'XX" + CV 10' a X'XX" + defaticamento;80;80;;4;100;0;5;0
+247;12;5;MEZZA MARATONA;;FL 70' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+248;12;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 90' a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+249;13;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+250;13;3;MEZZA MARATONA;;Riscaldamento FL 15'- Ripetute 1*4000 m. a X'XX" recupero FL 6' +  1*2000 m. a X'XX" recupero FL 4';97;100;Lavori;4;0;14;5;0
+251;13;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;103;Lavori;4;0;13;5;0
+252;13;7;MEZZA MARATONA;;Gara podistica 12-15 km  [Ritmo Mezza Maratona - 10"] oppure Km. 15 a X'XX"  [Ritmo 88% della soglia];90;0;;4;0;13;5;0
+253;14;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+254;14;3;MEZZA MARATONA;;Riscaldamento FL 15'- Ripetute 10*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;12;5;0
+255;14;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;103;Lavori;4;0;13;5;0
+256;14;7;MEZZA MARATONA;;Gara podistica 10 km  [Ritmo 97%] oppure CV 30' a X'XX";97;0;;4;0;0;5;0
+257;15;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+258;15;3;MEZZA MARATONA;;Riscaldamento FL 15'- Ripetute 1*5000 m. a X'XX" recupero FL 7' +  2*2000 m. a X'XX" recupero FL 4';97;100;Lavori;4;0;15;5;0
+259;15;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;103;Lavori;4;0;13;5;0
+260;15;7;MEZZA MARATONA;;Gara podistica 12-15 km  [Ritmo Mezza Maratona - 15"] oppure Km. 18 a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+261;16;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+262;16;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 3*4000 m. a X'XX" recupero FL 6' tra le serie;100;0;Lavori;4;0;14;5;0
+263;16;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;103;Lavori;4;0;13;5;0
+264;16;7;MEZZA MARATONA;;Gara podistica 10 km oppure Km. 25 a X'XX";80;0;;4;0;10;5;0
+265;17;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;4;0;0;5;0
+266;17;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;14;5;0
+267;17;5;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 70 m.;80;0;;4;0;0;5;0
+268;17;7;MEZZA MARATONA;;Gara podistica 10 km [Ritmo 97%]  oppure FM 60' a X'XX";92;0;;4;0;10;5;0
+269;18;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;5;0
+270;18;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 3*3000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;13;5;0
+271;18;5;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 70 m.;80;0;;4;0;0;5;0
+272;18;7;MEZZA MARATONA;;Gara podistica 10 km [Ritmo in progressione] oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+273;19;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;5;0
+274;19;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;15;5;0
+275;19;5;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 80 m.;80;0;;4;0;0;5;0
+276;19;7;MEZZA MARATONA;;Gara podistica 10 km oppure FM 50' a X'XX";90;0;;4;0;10;5;0
+277;20;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;5;0
+278;20;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 3*3000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;12;5;0
+279;20;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;4;0;0;5;0
+280;20;7;MEZZA MARATONA;;Mezza Maratona Clou;90;0;;4;0;21;5;0
+281;1;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+282;1;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;92;;7;0;0;5;0
+283;1;5;STRADA 10-14 KM;4;FL 75' a X'XX";80;0;;7;0;0;5;0
+284;1;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;0;5;0
+285;2;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+286;2;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;5;0
+287;2;5;STRADA 10-14 KM;4;FL 80' a X'XX";80;0;;7;0;0;5;0
+288;2;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;0;5;0
+289;3;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+290;3;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;5;0
+291;3;5;STRADA 10-14 KM;4;FL 85' a X'XX";80;0;;7;0;0;5;0
+292;3;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;0;5;0
+293;4;1;STRADA 10-14 KM;4;FL 60' a X'XX";80;0;;7;0;0;5;0
+294;4;3;STRADA 10-14 KM;;FL 20' a X'XX" + FM 30' a X'XX";80;92;;7;0;0;5;0
+295;4;5;STRADA 10-14 KM;;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+296;4;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;0;5;0
+297;5;1;STRADA 10-14 KM;;FL 50' a X'XX";80;0;;7;0;0;5;0
+298;5;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;5;0
+299;5;5;STRADA 10-14 KM;;FL 90' a X'XX";80;0;;7;0;0;5;0
+300;5;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;0;5;0
+301;6;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+302;6;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;5;0
+303;6;5;STRADA 10-14 KM;4;FL 80' a X'XX";80;0;;7;0;0;5;0
+304;6;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;0;5;0
+305;7;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+306;7;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;5;0
+307;7;5;STRADA 10-14 KM;4;FL 85' a X'XX";80;0;;7;0;0;5;0
+308;7;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;0;5;0
+309;8;1;STRADA 10-14 KM;;FL 50' a X'XX";80;0;;7;0;0;5;0
+310;8;3;STRADA 10-14 KM;;FL 25' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;5;0
+311;8;5;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 10 * 100 m.;80;0;;7;0;0;5;0
+312;8;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;0;5;0
+313;9;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+314;9;3;STRADA 10-14 KM;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 20' a X'XX" + CV 10' a X'XX";80;80;;7;97;0;5;0
+315;9;5;STRADA 10-14 KM;;FL 60' in ambiente collinare;80;0;;7;0;0;5;0
+316;9;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 80' a X'XX";80;0;;7;0;0;5;0
+317;10;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+318;10;3;STRADA 10-14 KM;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 20' a X'XX" + CV 10' a X'XX";80;80;;7;97;0;5;0
+319;10;5;STRADA 10-14 KM;4;FL 60' a X'XX" in ambiente collinare;80;0;;7;0;0;5;0
+320;10;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;0;5;0
+321;11;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;5;0
+322;11;3;STRADA 10-14 KM;;FL 20' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 10' a X'XX" + CV 10' a X'XX";80;80;;7;100;0;5;0
+323;11;5;STRADA 10-14 KM;;FL 60' a X'XX" in ambiente collinare [Ritmo 88% soglia];88;0;;7;0;0;5;0
+324;11;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;0;5;0
+325;12;1;STRADA 10-14 KM;4;FL 60' a X'XX";80;0;;7;0;0;5;0
+326;12;3;STRADA 10-14 KM;;FL 20' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa]  + FL 10' a X'XX" + CV 15' a X'XX";80;80;;7;97;0;5;0
+327;12;5;STRADA 10-14 KM;;FL 50' a X'XX" in ambiente collinare  [Ritmo 88% soglia];88;0;;7;0;0;5;0
+328;12;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;0;5;0
+329;13;1;STRADA 10-14 KM;;FL 70' a X'XX";80;0;;7;0;0;5;0
+330;13;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 10*600 m. a X'XX" recupero FL 3' tra le serie;103;0;Lavori;7;0;8;5;0
+331;13;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;5;0
+332;13;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 35' a X'XX";100;0;;7;0;0;5;0
+333;14;1;STRADA 10-14 KM;;FL 70' a X'XX";80;0;;7;0;0;5;0
+334;14;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 8*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;11;5;0
+335;14;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 11*400 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;5;0
+336;14;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 20' a X'XX" + CV 25' a X'XX";90;100;;7;0;0;5;0
+337;15;1;STRADA 10-14 KM;4;FL 70' a X'XX";80;0;;7;0;0;5;0
+338;15;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 12*800 m. a X'XX" recupero FL 3' tra le serie;103;0;Lavori;7;0;12;5;0
+339;15;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 10*500 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;5;0
+340;15;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 40' a X'XX";100;0;;7;0;0;5;0
+341;16;1;STRADA 10-14 KM;;FL 50' a X'XX";80;0;;7;0;0;5;0
+342;16;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 10*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;12;5;0
+343;16;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 12*500 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;13;5;0
+344;16;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 25' a X'XX";100;0;;7;0;0;5;0
+345;17;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;7;0;0;5;0
+346;17;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 8*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;11;5;0
+347;17;5;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 * 70 m.;80;0;;7;0;0;5;0
+348;17;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";90;0;;7;0;0;5;0
+349;18;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;7;0;0;5;0
+350;18;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;7;0;12;5;0
+351;18;5;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 * 70 m.;80;0;;7;0;0;5;0
+352;18;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";90;0;;7;0;0;5;0
+353;19;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;7;0;0;5;0
+354;19;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 10*800 m. a X'XX" recupero FL 4' tra le serie;100;0;Lavori;7;0;12;5;0
+355;19;5;STRADA 10-14 KM;;FL 70' a X'XX" + Allunghi 10 * 70 m.;80;0;;7;0;0;5;0
+356;19;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";92;0;;7;0;0;5;0
+357;20;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;7;0;0;5;0
+358;20;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 7*1000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;7;0;11;5;0
+359;20;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20 a X'XX";80;92;;7;0;0;5;0
+360;20;7;STRADA 10-14 KM;;Gara su strada Clou;90;0;;7;0;10;5;0
+361;1;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+362;1;3;MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+363;1;5;MARATONA;;FL 80' a X'XX";80;0;;4;0;0;5;0
+364;1;7;MARATONA;;Gara podistica 10-13 km oppure FL 75' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+365;2;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+366;2;3;MARATONA;;FL 20' a X'XX" + FM 45' a X'XX";80;90;;4;0;0;5;0
+367;2;5;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;5;0
+368;2;7;MARATONA;;Gara podistica 10 km oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+369;3;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+370;3;3;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+371;3;5;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;5;0
+372;3;7;MARATONA;;Gara podistica 10 km [Ritmo 97%] oppure FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+373;4;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+374;4;3;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+375;4;5;MARATONA;;FL 90' a X'XX";80;0;;4;0;0;5;0
+376;4;7;MARATONA;;Gara podistica 10 km oppure FL 85' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+377;5;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+378;5;3;MARATONA;;FL 20' a X'XX" + FM 25' a X'XX" + CV 10' a X'XX";80;90;;4;97;0;5;0
+379;5;5;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+380;5;7;MARATONA;;Gara podistica 15 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;15;5;0
+381;6;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+382;6;3;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+383;6;5;MARATONA;;FL 90' a X'XX";80;0;;4;0;0;5;0
+384;6;7;MARATONA;;Gara podistica 15 km oppure Km. 20 a X'XX" [Ritmo 88% della soglia];88;0;;4;0;15;5;0
+385;7;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+386;7;3;MARATONA;;FL 30' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+387;7;5;MARATONA;;FL 90' a X'XX";80;0;;4;0;0;5;0
+388;7;7;MARATONA;;Gara podistica 15 km oppure Km. 25 a X'XX" [Ritmo 88% della soglia];88;0;;4;0;15;5;0
+389;8;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+390;8;3;MARATONA;;FL 35' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;5;0
+391;8;5;MARATONA;;FL 90' a X'XX";80;0;;4;0;0;5;0
+392;8;7;MARATONA;;Gara podistica 10 km oppure Km. 28 a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+393;9;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+394;9;3;MARATONA;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 20' a X'XX";80;80;;4;0;0;5;0
+395;9;5;MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+396;9;7;MARATONA;;Gara podistica [ideale Mezza Maratona da correre a Ritmo Maratona-10"] oppure Simulazione di una mezza-maratona  [da correre a Ritmo Maratona-10"];80;0;;4;0;21;5;0
+397;10;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+398;10;3;MARATONA;;FL 20' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 10' a X'XX" + CV 10' a X'XX";80;80;;4;97;0;5;0
+399;10;5;MARATONA;;FL 75' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+400;10;7;MARATONA;;Gara podistica 10 km [Ritmo 97%] oppure Km. 32 a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+401;11;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+402;11;3;MARATONA;;FL 15' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX" + CV 10' a X'XX";80;90;;4;80;100;5;0
+403;11;5;MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+404;11;7;MARATONA;;Gara podistica 15 km [Ritmo Maratona-10"] oppure Km. 25  a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;15;5;0
+405;12;1;MARATONA;;FL 60' a X'XX";80;0;;4;0;0;5;0
+406;12;3;MARATONA;;FL 15' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX" + CV 15' a X'XX";80;90;;4;80;100;5;0
+407;12;5;MARATONA;;FL 70' a X'XX" in ambiente collinare;80;0;;4;0;0;5;0
+408;12;7;MARATONA;;Gara podistica 15 km  [Ritmo Maratona-10"] oppure Km. 20 a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;15;5;0
+409;13;1;MARATONA;;FL 80' a X'XX";80;0;;4;0;0;5;0
+410;13;3;MARATONA;;Riscaldamento 15'- Ripetute 1*4000 m. a X'XX" recupero FL 5' + 1*3000 m. a X'XX" recupero FL 4' + 1*1000 a X'XX" + 10' CLL;97;97;Lavori;4;100;14;5;0
+411;13;5;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;Lavori;4;80;15;5;0
+412;13;7;MARATONA;;Gara podistica 10 km  [Ritmo 97%] oppure CV 40' a X'XX";97;0;;4;0;10;5;0
+413;14;1;MARATONA;;FL 80' a X'XX";80;0;;4;0;0;5;0
+414;14;3;MARATONA;;Riscaldamento 15'- Ripetute 12*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;14;5;0
+415;14;5;MARATONA;;FL 25' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;Lavori;4;80;15;5;0
+416;14;7;MARATONA;;Gara podistica 12 km. oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;12;5;0
+417;15;1;MARATONA;;FL 80' a X'XX";80;0;;4;0;0;5;0
+418;15;3;MARATONA;;Riscaldamento 15'- Ripetute 2*5000 m. a X'XX" recupero FL 7' tra le serie;97;0;Lavori;4;0;15;5;0
+419;15;5;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;14;4;80;13;5;0
+420;15;7;MARATONA;;Gara podistica 10 km [Ritmo Fondo Medio] oppure FM 60' a X'XX";90;0;;4;0;13;5;0
+421;16;1;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+422;16;3;MARATONA;;Riscaldamento 15'- Ripetute 10*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;15;5;0
+423;16;5;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;Lavori;4;80;15;5;0
+424;16;7;MARATONA;;Gara podistica 10 km oppure Km. 21 a X'XX"  [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+425;17;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;4;0;0;5;0
+426;17;3;MARATONA;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;15;5;0
+427;17;5;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+428;17;7;MARATONA;;Gara podistica 10 km [Ritmo in progressione] oppure FL 40' a X'XX" + FM 40' a X'XX";80;90;;4;0;10;5;0
+429;18;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;4;0;0;5;0
+430;18;3;MARATONA;;Riscaldamento 15'- Ripetute 3*3000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;14;5;0
+431;18;5;MARATONA;;FL 50 a X'XX" + FM 20' a X'XX";80;90;;4;0;0;5;0
+432;18;7;MARATONA;;Gara podistica 10 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;5;0
+433;19;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 * 100 m.;80;0;;4;0;0;5;0
+434;19;3;MARATONA;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;14;5;0
+435;19;5;MARATONA;;FL 70' a X'XX";80;0;;4;0;0;5;0
+436;19;7;MARATONA;;Gara podistica 10 km oppure FM 40' a X'XX";90;0;;4;0;0;5;0
+437;20;1;MARATONA;;FL 50' a X'XX" + Allunghi 10 * 70 m.;80;0;;4;0;0;5;0
+438;20;3;MARATONA;;Riscaldamento 15'- Ripetute 3*3000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;14;5;0
+439;20;5;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;4;0;0;5;0
+440;20;7;MARATONA;;Maratona Clou;90;0;;4;0;42;5;0
+441;1;1;CORSA IN MONTAGNA;;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;1;0
+442;1;2;CORSA IN MONTAGNA;;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+443;1;3;CORSA IN MONTAGNA;;Riscaldamento FL 20'- Ripetute 8*1000 m. a X'XX"- Recupero 3' FL;100;0;Lavori;7;0;10;1;0
+444;1;4;CORSA IN MONTAGNA;;FL 60' a X'XX" su percorso collinare;80;0;;7;0;0;1;0
+445;1;5;CORSA IN MONTAGNA;;FL 40' a X'XX" + Allunghi 8 x 100 m. in salita + FL 20' a X'XX";80;80;;7;0;0;1;0
+446;1;6;CORSA IN MONTAGNA;;FL 15' a X'XX" + FL 30' a X'XX" in salita + discesa in scioltezza;80;80;;7;0;0;1;0
+447;1;7;CORSA IN MONTAGNA;;Gara podistica 10 km oppure FM 40' a X'XX" su percorso collinare;90;0;;7;0;10;1;0
+448;2;1;CORSA IN MONTAGNA;;FL 55' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;1;0
+449;2;2;CORSA IN MONTAGNA;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+450;2;3;CORSA IN MONTAGNA;;Riscaldamento FL 15' - Ripetute 4*1000 m. in salita pendenza 5-8% a X'XX"- recupero 3'30";90;0;Lavori;7;0;8;1;0
+451;2;4;CORSA IN MONTAGNA;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;;1;0
+452;2;5;CORSA IN MONTAGNA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;0
+453;2;6;CORSA IN MONTAGNA;;FL 40' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;1;0
+454;2;7;CORSA IN MONTAGNA;;Gara podistica 10 Km oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;1;0
+455;3;1;CORSA IN MONTAGNA;;FL 50' a X'XX";80;0;;7;0;0;1;0
+456;3;2;CORSA IN MONTAGNA;;FL 60' a X'XX" con almeno 3 Km di salita (Ritmo 50" pi¨ lento del FL) + Allunghi 8 x 100 m. -> Nota : In discesa curare la scioltezza;80;0;;7;0;0;1;0
+457;3;3;CORSA IN MONTAGNA;;Riscaldamento FL 20'- Ripetute 12*400 m. a X'XX- Recupero 2'00";103;0;Lavori;7;0;8;1;0
+458;3;4;CORSA IN MONTAGNA;4;FL 50' a X'XX" su percorso collinare;80;0;;7;0;0;1;0
+459;3;5;CORSA IN MONTAGNA;;FL 50' a X'XX" + Allunghi 7 x 100 m.;80;0;;7;0;0;1;0
+460;3;6;CORSA IN MONTAGNA;;FL 25' a X'XX" + FM 10' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;1;0
+461;3;7;CORSA IN MONTAGNA;;Gara podistica 10 Km oppure FM 40' a X'XX" con almeno una salita ripida di 2 km. (Ritmo 50" pi¨ lento del FL) -> Nota : In discesa curare la scioltezza;90;0;;7;0;10;1;0
+462;4;1;CORSA IN MONTAGNA;;FL 50' a X'XX";80;0;;7;0;0;1;0
+463;4;2;CORSA IN MONTAGNA;4;FL 60' a X'XX" su percorso collinare;80;0;;7;0;0;1;0
+464;4;3;CORSA IN MONTAGNA;;Riscaldamento FL 15'- Ripetute 3*3000 m. a X'XX" - Recupero 4' al passo o FLL;97;0;Lavori;7;0;12;1;0
+465;4;4;CORSA IN MONTAGNA;;FL 60' a X'XX" + Allunghi 15 x 100 m.;80;0;;7;0;;1;0
+466;4;5;CORSA IN MONTAGNA;;FL 45' a X'XX" + Allunghi 7 x 100 m.;80;0;;7;0;0;1;0
+467;4;6;CORSA IN MONTAGNA;;Riposo oppure FL 20' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;1;0
+468;4;7;CORSA IN MONTAGNA;;Corsa in montagna clou;97;0;;7;0;10;1;0
+469;1;1;MARATONA;;FL 90' a X'XX";80;;;7;;;2;0
+470;1;2;MARATONA;;FL 20' Riscaldamento- 8*800 a X'XX" recupero FL 1'30" + 10' Defaticamento;103;;Lavori;7;;12;2;0
+471;1;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;;;7;;;2;0
+472;1;4;MARATONA;;FL 15' Riscaldamento- 3*3000 a X'XX", recupero FL 1000 m a X'XX" + Stretching;97;80;Lavori;7;;15;2;0
+473;1;5;MARATONA;;FL 105' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;;2;0
+474;1;6;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";80;90;;7;80;;2;0
+475;1;7;MARATONA;;Gara podistica 12 km oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;2;0
+476;2;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+477;2;2;MARATONA;;FL 20' Riscaldamento- 8*800 a X'XX" recupero FL 1'30" + 10' Defaticamento;103;0;Lavori;7;0;12;2;0
+478;2;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+479;2;4;MARATONA;;FL 20' Riscaldamento- 5*2000 a X'XX", recupero FL 800 m a X'XX" + Stretching;97;80;Lavori;7;0;14;2;0
+480;2;5;MARATONA;;FL 60' a X'XX" + Allunghi  10 x 60 m.;80;0;;7;0;0;2;0
+481;2;6;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";88;90;;7;88;0;2;0
+482;2;7;MARATONA;;Gara podistica 15 km [Ritmo Maratona - 15"] oppure Km. 20 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+483;3;1;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+484;3;2;MARATONA;;FL 15' Riscaldamento  + 1*5000 a X'XX" + recupero 2 km FL + 1*3000 a X'XX" + recupero 1 km FL + 1*1000 a X'XX" + defaticamento;103;0;Lavori;7;0;14;2;0
+485;3;3;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+486;3;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;97;Lavori;7;80;13;2;0
+487;3;5;MARATONA;4;FL 70' a X'XX";80;90;;7;80;0;2;0
+488;3;6;MARATONA;;FL 30' a X'XX" + CV 20' a X'XX";80;100;;7;0;0;2;0
+489;3;7;MARATONA;;Gara podistica 10 km [Ritmo Maratona - 20"] oppure Km. 28 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;10;2;0
+490;4;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+491;4;2;MARATONA;;FL 20' Riscaldamento- 5*3000 a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;19;2;0
+492;4;3;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+493;4;4;MARATONA;;FL 20' a X'XX" + FM 60' a X'XX";80;90;;7;0;0;2;0
+494;4;5;MARATONA;;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;15;2;0
+495;4;6;MARATONA;;FL 50' a X'XX" + FM 20' a X'XX" + Allunghi 10 x 50 m.;80;90;;7;0;0;2;0
+496;4;7;MARATONA;;Gara podistica 10 km. oppure Km. 35 a X'XX" [Ritmo 88% della soglia];88;;;7;0;15;2;0
+497;5;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+498;5;2;MARATONA;;FL 20' Riscaldamento- 10*1000 a X'XX" recupero FL 1'30" + 10' Defaticamento;100;0;Lavori;7;0;13;2;0
+499;5;3;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;2;0
+500;5;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;13;2;0
+501;5;5;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;2;0
+502;5;6;MARATONA;;FL 60' a X'XX" + FM 15' a X'XX" oppure riposo se Þ prevista una Mezza Maratona l'indomani;80;0;;7;0;0;2;0
+503;5;7;MARATONA;;Gara podistica (ideale mezza maratona) oppure Km. 28 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;21;2;0
+504;6;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+505;6;2;MARATONA;;FL 20' Riscaldamento- 5*2000 a X'XX" recupero FL 3' + 10' Defaticamento;100;0;Lavori;7;0;13;2;0
+506;6;3;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];80;0;;7;0;0;2;0
+507;6;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;2;0
+508;6;5;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;2;0
+509;6;6;MARATONA;;FL 50' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;0
+510;6;7;MARATONA;;Gara podistica 12 km [Ritmo Maratona - 20"] oppure Km. 20 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;2;0
+511;7;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+512;7;2;MARATONA;;FL 20' Riscaldamento- 3*3000 a X'XX" recupero FL 4' + 10' Defaticamento;97;0;Lavori;7;0;12;2;0
+513;7;3;MARATONA;;FL 90' a X'XX";80;0;;7;0;0;2;0
+514;7;4;MARATONA;;FL 20' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;2;0
+515;7;5;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;Lavori;7;0;15;2;0
+516;7;6;MARATONA;;FL 40' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;2;0
+517;7;7;MARATONA;;Gara podistica 12-15 km oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+518;8;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;2;0
+519;8;2;MARATONA;;FL 30' a X'XX" +  FM 15' a X'XX";80;90;;7;0;0;2;0
+520;8;3;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + defaticamento;80;90;;7;;0;2;0
+521;8;4;MARATONA;;FL 40' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+522;8;5;MARATONA;;FL 20' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;2;0
+523;8;6;MARATONA;;Riposo oppure FL 30' a X'XX";80;0;;7;0;0;2;0
+524;8;7;MARATONA;;Maratona Clou;80;0;;7;0;42;2;0
+525;1;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+526;1;2;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 5*1000 m.a X'XX" in salita (pendenza 5-7%) recupero 5' FL;80;0;Lavori;7;0;8;2;0
+527;1;3;CORSA A TAPPE;4;FL 70' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+528;1;4;CORSA A TAPPE;;Riscaldamento FL 15'- Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;103;0;Lavori;7;0;12;2;0
+529;1;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+530;1;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;0
+531;1;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;0;2;0
+532;2;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+533;2;2;CORSA A TAPPE;;FL 50' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;2;0
+534;2;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 3*3000 m. a X'XX"- recupero 4' FLL;97;0;Lavori;7;0;12;2;0
+535;2;4;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+536;2;5;CORSA A TAPPE;;FL 60' a X'XX" [Ritmo 88% della soglia]	;88;0;;7;0;0;2;0
+537;2;6;CORSA A TAPPE;;FL 30' a X'XX" + FM 20' a X'XX" [se domenica gara ridurre FL 30%];80;90;;7;0;0;2;0
+538;2;7;CORSA A TAPPE;;Gara podistica 12 km oppure FL 90' a X'XX";80;0;;7;0;0;2;0
+539;3;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+540;3;2;CORSA A TAPPE;4;FL 70' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;2;0
+541;3;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 12*400 m. a X'XX"- recupero 4' FLL;103;0;Lavori;7;0;10;2;0
+542;3;4;CORSA A TAPPE;;FL 50' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;0
+543;3;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+544;3;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 20' a X'XX" in salita (bisogna almeno mantenere il ritmo del FL) + ritorno in discesa in scioltezza;80;80;;7;0;0;2;0
+545;3;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;0;2;0
+546;4;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+547;4;2;CORSA A TAPPE;4;FL 50' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;0
+548;4;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 7*1000 m. a X'XX"- recupero 4' FLL;100;0;Lavori;7;0;10;2;0
+549;4;4;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;2;0
+550;4;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+551;4;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 25' a X'XX" in salita (bisogna almeno mantenere il ritmo del FL) + ritorno in discesa in scioltezza;80;80;;7;0;0;2;0
+552;4;7;CORSA A TAPPE;;Gara podistica 10 km oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;2;0
+553;5;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+554;5;2;CORSA A TAPPE;4;FL 70' a X'XX";80;90;;7;0;0;2;0
+555;5;3;CORSA A TAPPE;;Riscaldamento FL 15'- Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;100;0;Lavori;7;0;12;2;0
+556;5;4;CORSA A TAPPE;;Riscaldamento  FL 15'-  FM 30' a X'XX" in salita (mantenere il pi¨ possibile il ritmo del FL) + discesa in scioltezza + 10' defaticamento;80;;;7;0;0;2;0
+557;5;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+558;5;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 25' a X'XX";80;90;;7;0;0;2;0
+559;5;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;2;0
+560;6;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+561;6;2;CORSA A TAPPE;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+562;6;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 4*2000 m a X'XX"- recupero 3'30" FLL;100;0;Lavori;7;0;11;2;0
+563;6;4;CORSA A TAPPE;;FL 60' a X'XX"  + Allunghi 8 x 100 m.;80;90;;7;0;0;2;0
+564;6;5;CORSA A TAPPE;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+565;6;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 25' a X'XX";80;90;;7;0;0;2;0
+566;6;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;0;2;0
+567;7;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+568;7;2;CORSA A TAPPE;4;FL 70' a X'XX";80;90;;7;0;0;2;0
+569;7;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 12*300 m a X'XX"- recupero 1'15" FLL;106;0;Lavori;7;0;7;2;0
+570;7;4;CORSA A TAPPE;;FL 60' a X'XX";80;90;;7;0;0;2;0
+571;7;5;CORSA A TAPPE;;FL 15' a X'XX" + FM 30' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;2;0
+572;7;6;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;2;0
+573;7;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;2;0
+574;8;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+575;8;2;CORSA A TAPPE;;FL 50' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+576;8;3;CORSA A TAPPE;;Riscaldamento FL 15'- 8*1000 m a X'XX" - recupero 2'30" FLL;103;0;Lavori;7;0;12;2;0
+577;8;4;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;2;0
+578;8;5;CORSA A TAPPE;;FL 40' a X'XX" + CV 15' a X'XX";80;90;;7;0;0;2;0
+579;8;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;2;0
+580;8;7;CORSA A TAPPE;;Riposo in previsione della prima tappa il lunedi seguente;100;0;;7;0;0;2;0
+581;1;1;CROSS;;FL 55' a X'XX";80;0;;7;0;0;2;0
+582;1;2;CROSS;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+583;1;3;CROSS;;Riscaldamento FL 15'- Ripetute 4*2000 m. a X'XX" - Recupero 4';103;0;Lavori;7;0;11;2;0
+584;1;4;CROSS;;FL 60' a X'XX";80;0;;7;0;0;2;0
+585;1;5;CROSS;;FL 50' a X'XX" [Ritmo 88% della soglia] + Allunghi 8 x 100 m.;88;0;;7;0;0;2;0
+586;1;6;CROSS;;FL 30' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+587;1;7;CROSS;;Gara CROSS oppure FM 40' a X'XX" su terreno tipo campestre;97;0;;7;0;7;2;0
+588;2;1;CROSS;;FL 55' a X'XX";80;0;;7;0;0;2;0
+589;2;2;CROSS;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+590;2;3;CROSS;;Riscaldamento FL 15' - Ripetute 8*1000 m. a X'XX"- recupero 2'45";100;0;Lavori;7;0;11;2;0
+591;2;4;CROSS;;FL 50' a X'XX" + Allunghi 12 x 100 m.;80;0;;7;0;;2;0
+592;2;5;CROSS;;FL 30' a X'XX" + FM 20' a X'XX";80;92;;7;0;0;2;0
+593;2;6;CROSS;;FL 50' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;2;0
+594;2;7;CROSS;;Gara CROSS oppure FM 40' a X'XX" su terreno tipo campestre;90;0;;7;0;7;2;0
+595;3;1;CROSS;;FL 50' a X'XX";80;0;;7;0;0;2;0
+596;3;2;CROSS;;FL 45' a X'XX" + Allunghi 12 x 100 m.;80;0;;7;0;0;2;0
+597;3;3;CROSS;;Riscaldamento FL 20'- Ripetute 12*400 m. a X'XX- Recupero 1'20";103;0;Lavori;7;0;9;2;0
+598;3;4;CROSS;;FL 60' a X'XX";80;0;;7;0;0;2;0
+599;3;5;CROSS;;FL 30' a X'XX" + FM 25' a X'XX";80;90;;7;0;0;2;0
+600;3;6;CROSS;;FL 40' a X'XX" + Allunghi 5 x 150 m.;80;0;;7;0;0;2;0
+601;3;7;CROSS;;Gara CROSS oppure CV 30' a X'XX" su terreno tipo campestre;100;0;;7;0;7;2;0
+602;4;1;CROSS;;FL 50' a X'XX";80;0;;7;0;0;2;0
+603;4;2;CROSS;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+604;4;3;CROSS;;Riscaldamento FL 15'- Ripetute 10*500 m. a X'XX"- Recupero 1'45";97;0;Lavori;7;0;7;2;0
+605;4;4;CROSS;;FL 50' a X'XX";80;;;7;0;0;2;0
+606;4;5;CROSS;;FL 30' a X'XX"+ CV 20' a X'XX";80;97;;7;0;0;2;0
+607;4;6;CROSS;;FL 25' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;0
+608;4;7;CROSS;;Gara CROSS oppure FM 40' a X'XX" in ambiente collinare;90;0;;7;0;7;2;0
+609;5;1;CROSS;4;FL 60' a X'XX";80;0;;7;0;0;2;0
+610;5;2;CROSS;;FL 50' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+611;5;3;CROSS;;Riscaldamento FL 15'- Ripetute 8*800 m. a X'XX"- Recupero 1'45";103;0;Lavori;7;0;9;2;0
+612;5;4;CROSS;;FL 60' a X'XX";80;0;;7;0;0;2;0
+613;5;5;CROSS;;FL 40' a X'XX" + FM 10' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;2;0
+614;5;6;CROSS;4;FL 50' a X'XX";80;0;;7;0;0;2;0
+615;5;7;CROSS;;Gara CROSS oppure CV 30' a X'XX" su terreno tipo campestre;97;0;;7;0;7;2;0
+616;6;1;CROSS;;FL 55' a X'XX";80;0;;7;0;0;2;0
+617;6;2;CROSS;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+618;6;3;CROSS;;Riscaldamento FL 15'- Ripetute 8*1000 m. a X'XX"- Recupero 2'30";103;0;Lavori;7;0;9;2;0
+619;6;4;CROSS;;FL 50' a X'XX";80;0;;7;0;0;2;0
+620;6;5;CROSS;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;103;Lavori;7;80;12;2;0
+621;6;6;CROSS;4;FL 50' a X'XX"+ Allunghi 5 x 100 m.;80;0;;7;0;0;2;0
+622;6;7;CROSS;;Gara CROSS oppure FM 45' a X'XX";90;0;;7;0;7;2;0
+623;7;1;CROSS;;FL 50' a X'XX" + Allunghi 12 x 100 m.;80;0;;7;0;0;2;0
+624;7;2;CROSS;;FL 60' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+625;7;3;CROSS;;Riscaldamento FL 20'- Ripetute 10*500 m. a X'XX- Recupero 1'20;103;0;Lavori;7;0;9;2;0
+626;7;4;CROSS;4;FL 60' a X'XX";80;0;;7;0;0;2;0
+627;7;5;CROSS;;FL 20' a X'XX" + FM 15' a X'XX" + CV 15' a X'XX";80;90;;7;97;0;2;0
+628;7;6;CROSS;;FL 45' a X'XX";80;0;;7;0;0;2;0
+629;7;7;CROSS;;Gara CROSS oppure CV 30' a X'XX" su terreno tipo campestre;100;0;;7;0;7;2;0
+630;8;1;CROSS;;FL 50' a X'XX";80;0;;7;0;0;2;0
+631;8;2;CROSS;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+632;8;3;CROSS;;Riscaldamento FL 15'- Ripetute 12*300 m. a X'XX"- Recupero 1'20";106;0;Lavori;7;0;7;2;0
+633;8;4;CROSS;;FL 60' a X'XX";80;0;;7;0;0;2;0
+634;8;5;CROSS;;FM 45' a X'XX";90;0;;7;0;0;2;0
+635;8;6;CROSS;;Riposo oppure FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;2;0
+636;8;7;CROSS;;Gara CROSS Clou;0;0;;7;0;7;2;0
+637;1;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;2;0
+638;1;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 7*1000 m. a X'XX" , Recupero 500 m FL;100;0;Lavori;7;0;12;2;0
+639;1;4;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;2;0
+640;1;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;2;0
+641;1;7;MEZZA MARATONA;;Gara su strada max 13 km  [Ritmo Mezza Maratona - 15"]  oppure FL 90' a X'XX";80;0;;7;0;13;2;0
+642;2;1;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;2;0
+643;2;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 4*2000 m. a X'XX", Recupero 500 m. FL;97;0;Lavori;7;0;12;2;0
+644;2;4;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 400 m.;80;0;;7;0;0;2;0
+645;2;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX" + FM 15' a X'XX";80;90;;7;80;9;2;0
+646;2;7;MEZZA MARATONA;;Gara su strada max 15 km  [Ritmo Mezza Maratona - 15"]  oppure FL 20' a X'XX" + FM 45' a X'XX" + FL 15' a X'XX';80;90;;7;80;15;2;0
+647;3;1;MEZZA MARATONA;;FL 80' a X'XX";80;0;;7;0;0;2;0
+648;3;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 2*3000 m. a X'XX" + 2*2000 m. a X'XX"- Recupero 500 m FL;90;90;Lavori;7;0;12;2;0
+649;3;4;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;2;0
+650;3;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + CV 15 a X'XX";80;90;;7;97;0;2;0
+651;3;7;MEZZA MARATONA;;Gara su strada 10 km  [Ritmo 95%]  oppure FL 20' a X'XX" + FM 60' a X'XX" + FL 10' a X'XX";80;90;;7;80;10;2;0
+652;4;1;MEZZA MARATONA;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+653;4;3;MEZZA MARATONA;;FL 15' Riscaldamento- 2*2000 m. a X'XX" + 4*1000 m. a X'XX"- Recupero 500 m. FLL + 3' al passo fra le 2 serie;100;103;Lavori;7;0;13;2;0
+654;4;4;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;2;0
+655;4;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX";80;90;;7;80;0;2;0
+656;2;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+657;2;6;MEZZA MARATONA;;FL 45' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;97;;7;97;0;2;0
+658;3;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+659;3;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;97;;7;97;0;2;0
+660;4;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+661;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;80;100;;7;0;0;2;0
+662;5;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+663;5;6;MEZZA MARATONA;;FL 55' a X'XX" (Ritmo Mezza Maratona)  oppure FL 20' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;88;;7;100;0;2;0
+664;6;2;MEZZA MARATONA;4;FL 70' a X'XX" (Ritmo Mezza Maratona) + Allunghi 10 x 100 m.;88;0;;7;0;0;2;0
+665;6;6;MEZZA MARATONA;;FL 50' a X'XX"  (Ritmo Mezza Maratona) oppure FL 20' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;88;;7;97;0;2;0
+666;7;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+667;7;6;MEZZA MARATONA;;FL 45' a X'XX" (Ritmo Mezza Maratona) oppure FL 20' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;88;;7;100;0;2;0
+668;8;2;MEZZA MARATONA;4;FL 60' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;2;0
+669;8;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;80;100;;7;0;0;2;0
+670;1;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+671;1;6;STRADA 10-14 KM;;FL 50' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 30%];80;97;;7;0;0;2;0
+672;2;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+673;2;6;STRADA 10-14 KM;;FL 50' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];80;97;;7;0;0;2;0
+674;3;2;STRADA 10-14 KM;4;FL 70' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;2;0
+675;3;6;STRADA 10-14 KM;;FL 50' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];80;100;;7;0;0;2;0
+676;4;2;STRADA 10-14 KM;4;FL 60' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;2;0
+677;4;6;STRADA 10-14 KM;;FL 50' a X'XX" [Ritmo 88% della soglia] + CV 15' a X'XX"  [se domenica gara ridurre FL del 30%];88;97;;7;0;0;2;0
+678;5;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+679;5;6;STRADA 10-14 KM;;FL 50' a X'XX"  [Ritmo 88% della soglia] + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;97;;7;0;0;2;0
+680;6;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+681;6;6;STRADA 10-14 KM;;FL 50' a X'XX"  [Ritmo 88% della soglia] a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;97;;7;0;0;2;0
+682;7;2;STRADA 10-14 KM;4;FL 70' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;2;0
+683;7;6;STRADA 10-14 KM;;FL 50' a X'XX"  [Ritmo 88% della soglia] + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;100;;7;0;0;2;0
+684;7;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;3;0
+685;7;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 2*2000 m. a X'XX" + 3*1000 m. a X'XX"- Recupero 4';100;103;Lavori;7;0;10;3;0
+686;7;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+687;7;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + FL 20' a X'XX" [Ritmo 88% della soglia];80;92;;7;88;0;3;0
+688;7;7;STRADA 10-14 KM;;Gara Podistica oppure FM 50' a X'XX";97;0;;7;0;10;3;0
+689;8;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m;80;0;;7;0;0;3;0
+690;8;3;STRADA 10-14 KM;;Riscaldamento FL 15-20'- Ripetute 7*1000 m. a X'XX" - Recupero 3';100;0;Lavori;7;0;11;3;0
+691;8;4;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 4 x 100 m.;100;0;;7;0;0;3;0
+692;8;5;STRADA 10-14 KM;;FL 20 a X'XX" + FM 30' a X'XX";80;90;;7;0;0;3;0
+693;8;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX" + CV 15 a X'XX";92;100;;7;0;10;3;0
+694;9;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+695;9;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 5*1500 m. a X'XX"- Recupero 3';103;0;Lavori;7;0;8;3;0
+696;9;4;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 5 x 150 m.;80;0;;7;0;0;3;0
+697;9;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 10*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;103;Lavori;7;80;12;3;0
+698;9;7;STRADA 10-14 KM;;Gara Podistica [Ritmo Fondo Medio] oppure FM 45' a X'XX";90;0;;7;0;10;3;0
+699;10;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;3;0
+700;10;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 3*2000 m. a X'XX"- Recupero 4';100;0;Lavori;7;0;8;3;0
+701;10;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;3;0
+702;10;5;STRADA 10-14 KM;;FM 40' a X'XX" [Ritmo 92% della soglia];92;0;;7;0;0;3;0
+703;10;7;STRADA 10-14 KM;;Gara Podistica oppure CV 35' a X'XX";100;0;;7;0;10;3;0
+704;11;1;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;3;0
+705;11;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 2*2000 m. a X'XX" + 2*1000 m. a X'XX"- Recupero 4' FL;100;103;Lavori;7;0;8;3;0
+706;11;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+707;11;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + FM 20' a X'XX" [Ritmo92% della soglia];80;90;;7;92;0;3;0
+708;11;7;STRADA 10-14 KM;;Gara Podistica oppure CV 35' a X'XX";97;0;;7;0;10;3;0
+709;12;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+710;12;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 7*1000 m. a X'XX"- Recupero 3';103;0;Lavori;7;0;9;3;0
+711;12;4;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 4 x 100 m.;100;0;;7;0;0;3;0
+712;12;5;STRADA 10-14 KM;;FM 30' a X'XX" [Ritmo 92% della soglia];92;0;;7;0;0;3;0
+713;12;7;STRADA 10-14 KM;;Gara Podistica Clou;0;0;;7;0;10;3;0
+714;1;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+715;2;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 12*300 m. a X'XX" recupero 3'30;103;0;Lavori;7;0;7;1;1
+716;2;4;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;1;1
+717;2;5;STRADA 10-14 KM;;FL 30' a X'XX" + FM 20' a X'XX";80;92;;7;0;0;1;1
+718;2;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;1
+719;2;7;STRADA 10-14 KM;;Gara podistica oppure FM 20' a X'XX" + CV 25' a X'XX";90;100;;7;0;10;1;1
+720;3;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+721;3;2;STRADA 10-14 KM;4;FM 50' a X'XX";90;0;;7;0;0;1;1
+722;3;3;STRADA 10-14 KM;;FL 15' + 8*800 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;8;1;1
+723;3;4;STRADA 10-14 KM;;FL 60' a X'XX" [Ritmo 88%];88;0;;7;0;0;1;1
+724;3;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+725;3;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;1
+726;3;7;STRADA 10-14 KM;;Gara podistica oppure CV 25' a X'XX";100;0;;7;0;10;1;1
+727;4;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+728;4;2;STRADA 10-14 KM;4;FL 60' a X'XX"  [Ritmo 88%];88;0;;7;0;0;1;1
+729;4;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 6*1000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;9;1;1
+730;4;4;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;1;1
+731;4;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;92;;7;0;0;1;1
+732;4;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;1
+733;4;7;STRADA 10-14 KM;;Gara podistica oppure CV 25' a X'XX";100;0;;7;0;10;1;1
+734;1;1;MARATONA;;FL 70' a X'XX";80;0;;7;0;0;3;0
+735;1;2;MARATONA;;FL 20' Riscaldamento- 8*800 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;103;0;Lavori;7;0;8;3;0
+736;1;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+737;1;4;MARATONA;;FL 20' Riscaldamento- 7*1000 m. a X'XX", recupero FL 400 m. a X'XX" + Stretching;97;80;Lavori;7;0;12;3;0
+738;1;5;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;3;0
+739;1;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+740;1;7;MARATONA;;Gara podistica 10 km oppure FL 30' a X'XX" + CV 20' a X'XX";80;100;;7;0;10;3;0
+741;2;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+742;2;2;MARATONA;;FL 20' Riscaldamento- 8*800 a X'XX" recupero FL 1'30" + 10' Defaticamento;103;0;Lavori;7;0;12;3;0
+743;2;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+744;2;4;MARATONA;;FL 20' Riscaldamento- 4*2000 m. a X'XX", recupero FL 800 m. a X'XX" + Stretching;97;80;Lavori;7;0;15;3;0
+745;2;5;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;3;0
+746;2;6;MARATONA;;FL 80' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+747;2;7;MARATONA;;Gara podistica 10 km oppure FL 30' a X'XX" + CV 20' a X'XX";80;100;;7;0;10;3;0
+748;3;1;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+749;7;5;MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" intervallati da 1'15" FL;100;0;Lavori;7;0;14;3;0
+750;7;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+751;7;7;MARATONA;;Gara podistica 10-12 km [Ritmo Maratona - 20"] oppure Km. 35 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+752;8;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+753;8;2;MARATONA;;FL 45' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;3;0
+754;8;3;MARATONA;;FL 15' Riscaldamento + 4*3000 m. a X'XX" intervallati da 3'00" FL;97;0;Lavori;7;0;17;3;0
+755;8;4;MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;3;0
+756;8;5;MARATONA;;FL 30' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;3;0
+757;8;6;MARATONA;;Riposo oppure FL 30' a X'XX";80;0;;7;0;0;3;0
+758;8;7;MARATONA;;Gara Mezza maratona oppure Km. 27 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;21;3;0
+759;9;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+760;9;2;MARATONA;;FL 15' Riscaldamento- 12*1000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;16;3;0
+761;9;3;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+762;9;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;13;3;0
+763;9;5;MARATONA;;FL 60' a X'XX"  [Ritmo 88% della soglia] + Allunghi 10 x 70 m.;88;0;;7;0;0;3;0
+764;9;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+765;9;7;MARATONA;;Gara podistica 12-15 km [Ritmo Maratona - 15"] oppure Km. 22 a X'XX" [Ritmo 88% della soglia];80;0;;7;0;15;3;0
+766;10;1;MARATONA;;FL 60' a X'XX";80;90;;7;0;0;3;0
+767;10;2;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;3;0
+768;10;3;MARATONA;;FL 15' Riscaldamento- 6*2000 m. a X'XX" recupero FL 2'30" + 10' Defaticamento;97;0;Lavori;7;0;15;3;0
+769;10;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;3;0
+770;10;5;MARATONA;4;FL 90' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 70 m.;88;0;;7;0;0;3;0
+771;10;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+772;10;7;MARATONA;;Gara podistica 10-12 km [Ritmo Maratona - 20"] oppure Km. 18 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;3;0
+773;11;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+774;11;2;MARATONA;;FL 15' Riscaldamento- 4*3000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;16;3;0
+775;11;3;MARATONA;;FL 90' a X'XX";80;90;;7;80;0;3;0
+776;11;4;MARATONA;;FL 20' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;3;0
+777;11;5;MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" intervallati da 1'15" FL;100;0;Lavori;7;0;15;3;0
+778;11;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+779;11;7;MARATONA;;Gara podistica 10-12 km [Ritmo Maratona - 20"] oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;3;0
+780;12;1;MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+781;12;2;MARATONA;;FL 45' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;3;0
+782;1;7;MEZZA MARATONA;;Gara podistica oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;1;2
+783;2;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+784;2;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;2
+785;2;3;MEZZA MARATONA;;FL 20' Riscaldamento + 12*500 m. a X'XX" recupero FL 3'30;103;0;Lavori;7;0;10;1;2
+786;2;4;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+787;2;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + CV 10' a X'XX";80;90;;7;100;0;1;2
+788;2;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;2
+789;2;7;MEZZA MARATONA;;Gara podistica oppure FM 60' a X'XX";90;0;;7;0;12;1;2
+790;3;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+791;3;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;2
+792;3;3;MEZZA MARATONA;;FL 20' + 8*1000 m. a X'XX" recupero FL 3'30;103;0;Lavori;7;0;11;1;2
+793;3;4;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+794;3;5;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;1;2
+795;3;6;MEZZA MARATONA;;FL 25' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;2
+796;3;7;MEZZA MARATONA;;Gara podistica oppure FM 50' a X'XX";90;0;;7;0;12;1;2
+797;4;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+798;4;2;MEZZA MARATONA;4;FL 60' a X'XX" [Ritmo 88% della soglia]  + FM 20' a X'XX";88;90;;7;0;0;1;2
+799;4;3;MEZZA MARATONA;;FL 20' Riscaldamento + 5*1500 m. a X'XX" recupero FL 3';103;0;Lavori;7;0;11;1;2
+800;4;4;MEZZA MARATONA;;FL 70' a X'XX";80;0;;7;0;0;1;2
+801;4;5;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;2
+802;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;2
+803;4;7;MEZZA MARATONA;;Gara podistica oppure CV 25' a X'XX";100;0;;7;0;12;1;2
+804;1;1;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+805;1;2;MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;2
+806;1;3;MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;12;1;2
+807;1;4;MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+808;1;5;MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;92;;7;0;0;1;2
+809;1;6;MARATONA;;FL 25' a X'XX" + CV 25' a X'XX";80;97;;7;0;0;1;2
+810;1;7;MARATONA;;Gara podistica oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;1;2
+811;2;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+812;2;2;MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;1;2
+813;2;3;MARATONA;;FL 20' Riscaldamento + 12*800 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;14;1;2
+814;2;4;MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+815;2;5;MARATONA;;FL 40' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;1;2
+816;2;6;MARATONA;;FL 30' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;2
+817;2;7;MARATONA;;Gara podistica oppure FM 60' a X'XX";90;0;;7;0;12;1;2
+818;6;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+819;7;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 80 m.;80;0;;4;0;0;4;0
+820;7;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+821;7;5;MEZZA MARATONA;4;FL 85' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;4;0
+822;7;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+823;8;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+824;8;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;92;;4;0;0;4;0
+825;8;5;MEZZA MARATONA;4;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;4;0
+826;8;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+827;9;1;MEZZA MARATONA;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+828;9;3;MEZZA MARATONA;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 15' a X'XX" + CV 10' a X'XX";80;80;;4;97;0;4;0
+829;9;5;MEZZA MARATONA;;FL 60' a X'XX" in ambiente collinare;80;0;;4;0;0;4;0
+830;9;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+831;10;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+832;10;3;MEZZA MARATONA;;FL 15' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa  + FL 15' a X'XX" + FM 15' a X'XX";80;80;;4;92;0;4;0
+833;10;5;MEZZA MARATONA;;FL 70' a X'XX" in ambiente collinare;80;0;;4;0;0;4;0
+834;10;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+835;11;1;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+836;11;3;MEZZA MARATONA;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 20' a X'XX" + CV 10' a X'XX";80;80;;4;100;0;4;0
+837;11;5;MEZZA MARATONA;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;4;0
+838;11;7;MEZZA MARATONA;;Gara podistica 12-15 km [Ritmo 88% della soglia] oppure FL 80' a X'XX" [Ritmo Mezza Maratona];88;0;;4;0;15;4;0
+839;12;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+840;12;3;MEZZA MARATONA;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 10' a X'XX" + FM 15' a X'XX";80;80;;4;92;0;4;0
+841;12;5;MEZZA MARATONA;;FL 70' a X'XX" in ambiente collinare [Ritmo 88% della soglia];88;0;;4;0;0;4;0
+842;12;7;MEZZA MARATONA;;Gara podistica 10 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+843;13;1;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;4;0;0;4;0
+844;13;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 1*3000 m. a X'XX" recupero FL 5' tra le serie + 3*2000 a X'XX"  recupero FL 4';100;100;Lavori;4;0;12;4;0
+845;13;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;4;0;12;4;0
+846;13;7;MEZZA MARATONA;;Gara podistica 10 km [Ritmo 97%] oppure FM 50' a X'XX";90;0;;4;0;10;4;0
+847;10;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+848;10;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];88;97;;7;100;0;4;0
+849;11;2;MEZZA MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+850;11;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];88;97;;7;100;0;4;0
+851;12;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+852;12;6;MEZZA MARATONA;;FL 40' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;0;0;4;0
+853;13;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+854;13;6;MEZZA MARATONA;;FL 50' a X'XX"  (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];88;100;;7;100;0;4;0
+855;14;2;MEZZA MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+856;14;6;MEZZA MARATONA;;FL 50' a X'XX"  (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];88;100;;7;100;0;4;0
+857;15;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+858;15;6;MEZZA MARATONA;;FL 50' a X'XX"  (Ritmo Mezza Maratona) + CV 15' a X'XX" se [se domenica gara ridurre FL del 30%];80;80;;7;100;0;4;0
+859;16;2;MEZZA MARATONA;4;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+860;16;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;88;100;;7;0;0;4;0
+861;1;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;100;0;4;0
+862;2;4;MEZZA MARATONA;;FL 35' a X'XX" + FM 25' a X'XX";80;92;;7;100;0;4;0
+863;3;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;92;;7;100;0;4;0
+864;4;4;MEZZA MARATONA;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+865;5;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX" in ambiente collinare;80;90;;7;0;0;4;0
+866;6;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 25' a X'XX" in ambiente collinare;80;90;;7;0;0;4;0
+867;7;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 30' a X'XX" in ambiente collinare;80;90;;7;0;0;4;0
+868;8;4;MEZZA MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+869;9;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+870;10;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 45' a X'XX";80;90;;7;0;0;4;0
+871;11;4;MEZZA MARATONA;;FL 15' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;4;0
+872;12;4;MEZZA MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+873;13;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;4;0
+874;14;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;4;0
+875;15;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;4;0
+876;16;4;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;4;0
+877;1;1;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+878;1;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;4;0
+879;4;7;MEZZA MARATONA;;Gara su strada max 13 km  [Ritmo Mezza Maratona - 15"]  oppure Km. 18 a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;13;2;0
+880;5;1;MEZZA MARATONA;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;2;0
+881;5;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 2*3000 m. a X'XX" + 3*1000 m. a X'XX"- Recupero 1000 FL;97;100;Lavori;7;0;13;2;0
+882;5;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;90;;7;0;0;2;0
+883;5;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + FL 20' a X'XX";80;90;;7;80;0;2;0
+884;5;7;MEZZA MARATONA;;Gara su strada max 12 km  [Ritmo Mezza Maratona - 15"]  oppure FL 90' a X'XX";80;0;;7;0;0;2;0
+885;6;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;7;0;0;2;0
+886;6;3;MEZZA MARATONA;;FL 15' Riscaldamento- Ripetute 4*2000 m. a X'XX" , Recupero 500 m FL;100;0;Lavori;7;0;11;2;0
+887;6;4;MEZZA MARATONA;4;FL 60' a X'XX";80;0;;7;0;0;2;0
+888;6;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + FL 15' a X'XX" + FM 15' a X'XX";80;90;;7;80;90;2;0
+889;6;7;MEZZA MARATONA;;Gara su strada  [Ritmo Mezza Maratona - 15"]  oppure FL 20' a X'XX" + FM 30' a X'XX" + FL 20' a X'XX";80;90;;7;80;12;2;0
+890;7;1;MEZZA MARATONA;;FL 50' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;2;0
+891;7;3;MEZZA MARATONA;;FL 20' Riscaldamento- Ripetute 12*800 m, a X'XX"- Recupero 500 m FL;103;0;Lavori;7;0;10;2;0
+892;7;4;MEZZA MARATONA;;FL 70' a X'XX";80;0;;7;0;0;2;0
+893;7;5;MEZZA MARATONA;;FL 25' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;97;0;2;0
+894;7;7;MEZZA MARATONA;;Gara su strada 12 km [Ritmo in progressione] oppure FL 20' a X'XX" + FM 40' a X'XX" + FL 15' a X'XX";80;90;;7;80;0;2;0
+895;8;1;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;2;0
+896;8;3;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;2;0
+897;8;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;100;;7;0;0;2;0
+898;8;5;MEZZA MARATONA;;FL 30' a X'XX" + CV 15' a X'XX";80;100;;7;0;0;2;0
+899;8;7;MEZZA MARATONA;;Gara Mezza Maratona Clou;80;0;;7;0;21;2;0
+900;1;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;0
+901;1;6;MEZZA MARATONA;;FL 50' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 40%];80;97;;7;100;;1;0
+902;2;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+903;2;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX"  [se domenica gara ridurre FL del 40%];88;97;;7;100;0;1;0
+904;3;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+905;3;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX"  [se domenica gara ridurre FL del 40%];88;97;;7;97;0;1;0
+906;4;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+907;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;80;97;;7;0;0;1;0
+908;1;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+909;1;6;MEZZA MARATONA;;FL 40' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;100;;7;100;0;2;0
+910;8;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;0
+911;8;6;STRADA 10-14 KM;;FL 50' a X'XX"  [Ritmo 88% della soglia]  + CV 15' a X'XX"  [se domenica gara ridurre FL del 20%];88;100;;7;0;0;2;0
+912;1;1;STRADA 10-14 KM;;FL 55' a X'XX" + allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+913;1;3;STRADA 10-14 KM;;Riscaldamento FL 15' + Ripetute 6*1000 m. a X'XX"- Recupero 3';100;0;Lavori;7;0;9;3;0
+914;1;4;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 150 m.;80;0;;7;0;0;3;0
+915;1;5;STRADA 10-14 KM;;Riscaldamento FL 20'- Ripetute 10*400 m. a X'XX"- Recupero 1' 30";106;0;Lavori;7;0;8;3;0
+916;1;7;STRADA 10-14 KM;;Gara Podistica oppure FM 45' a X'XX";90;0;;7;0;10;3;0
+917;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 6 x 100 m;80;0;;7;0;0;3;0
+918;2;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 3*2000 m. a X'XX"- Recupero 4';100;0;Lavori;7;0;10;3;0
+919;2;4;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;3;0
+920;2;5;STRADA 10-14 KM;;FM 40' a X'XX";90;0;;7;0;0;3;0
+921;2;7;STRADA 10-14 KM;;Gara Podistica oppure FM 45' a X'XX";92;0;;7;0;10;3;0
+922;3;1;STRADA 10-14 KM;4;FL 60' a X'XX" + allunghi 8 x 100 m.;80;0;;7;0;0;3;0
+923;3;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 1*3000 m. a X'XX"- 1*2000 m. X'XX" + 2*1000 m. a X'XX" - Recupero 4';97;100;Lavori;7;103;11;3;0
+924;3;4;STRADA 10-14 KM;;FL 45' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+925;3;5;STRADA 10-14 KM;;FL 15' a X'XX" + FM 30' a X'XX";80;92;;7;0;0;3;0
+926;3;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX" + CV 10' a X'XX";92;100;;7;0;10;3;0
+927;4;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m;80;0;;7;0;0;3;0
+928;4;3;STRADA 10-14 KM;;Riscaldamento FL 15-20'- Ripetute 5-7*1000 m. a X'XX" - Recupero 3';103;0;Lavori;7;0;10;3;0
+929;4;4;STRADA 10-14 KM;;FL 45' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;3;0
+930;4;5;STRADA 10-14 KM;;FM 40' a X'XX" [Ritmo 92% della soglia];92;0;;7;0;0;3;0
+931;4;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX" + CV 15' a X'XX";90;100;;7;0;10;3;0
+932;5;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 5 x 100 m;80;0;;7;0;0;3;0
+933;5;3;STRADA 10-14 KM;;Riscaldamento FL 15-20'- Ripetute 4*1500 m. a X'XX"- Recupero 3';103;0;Lavori;7;0;8;3;0
+934;5;4;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 5 x 150 m.;80;0;;7;0;0;3;0
+935;5;5;STRADA 10-14 KM;;Riscaldamento FL 15'- 8*400 m. a X'XX"- Recupero 1' 30";106;0;Lavori;7;0;6;3;0
+936;5;7;STRADA 10-14 KM;;Gara Podistica oppure FM 40' a X'XX" + CV 10' a X'XX";90;97;;7;0;10;3;0
+937;6;1;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;3;0
+938;6;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 2*2000 m. a X'XX" + 1*1000 m. a X'XX"- Recupero 4';100;100;Lavori;7;0;7;3;0
+939;6;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;3;0
+940;6;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;3;0
+941;6;7;STRADA 10-14 KM;;Gara Podistica oppure FM 50' a X'XX";90;0;;7;0;10;3;0
+942;1;6;STRADA 10-14 KM;;FL 50' a X'XX" + FM 15' a X'XX"   [se domenica gara ridurre FL del 40%];80;92;;7;100;0;3;0
+943;2;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+944;2;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre FL del 30%];80;97;;7;100;0;3;0
+945;3;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+946;3;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;0;0;3;0
+947;4;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+948;4;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 10%];80;100;;7;100;0;3;0
+949;5;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+950;5;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 10%];80;100;;7;100;0;3;0
+951;6;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+952;6;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;100;0;3;0
+953;7;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+954;7;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;3;0
+955;8;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;3;0
+956;8;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre FL del 30%];80;100;;7;100;0;3;0
+957;9;2;STRADA 10-14 KM;;FL 60' a X'XX"  [Ritmo 88% della soglia].;88;0;;7;0;0;3;0
+958;9;6;STRADA 10-14 KM;;FM 20' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 10%];90;97;;7;100;0;3;0
+959;10;2;STRADA 10-14 KM;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+960;10;6;STRADA 10-14 KM;;FM 20' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 10%];90;100;;7;100;0;3;0
+961;11;2;STRADA 10-14 KM;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+962;11;6;STRADA 10-14 KM;;FM 20' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 10%];90;100;;7;100;0;3;0
+963;12;2;STRADA 10-14 KM;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+964;12;6;STRADA 10-14 KM;;Riposo oppure FL 15' a X'XX" + CV 15' a X'XX";80;100;;7;100;0;3;0
+965;1;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;;;7;;;1;1
+966;1;2;STRADA 10-14 KM;4;FL 60' a X'XX";80;;;7;;;1;1
+967;1;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 6*1000 m. a X'XX" recupero 3'30;100;;Lavori;7;;8;1;1
+968;1;4;STRADA 10-14 KM;;FL 60' a X'XX";80;;;7;;;1;1
+969;1;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;92;;7;;;1;1
+970;1;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;;;1;1
+971;1;7;STRADA 10-14 KM;;Gara podistica oppure CV 35' a X'XX";100;;;7;;10;1;1
+972;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+973;2;2;STRADA 10-14 KM;4;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;1
+974;3;2;MARATONA;;FL 20' Riscaldamento- 10*600 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;103;0;Lavori;7;0;12;3;0
+975;3;3;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+976;3;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;12;3;0
+977;3;5;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+978;3;6;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+979;3;7;MARATONA;;Gara podistica 12 km (impegno allenamento) oppure Km. 17 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;3;0
+980;4;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+981;4;2;MARATONA;;FL 20' Riscaldamento- 6*2000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;100;0;Lavori;7;0;16;3;0
+982;4;3;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+983;4;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;3;0
+984;4;5;MARATONA;;FL 15' Riscaldamento + 1*5000 m. a X'XX" + recupero 2 km FL + 1*3000 m. a X'XX" + recupero 2 km FL + 1*1000 m. a X'XX" + defaticamento;80;90;Lavori;7;100;16;3;0
+985;4;6;MARATONA;;FL 30' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+986;4;7;MARATONA;;Gara podistica (ideale Mezza Maratona) oppure Km. 21 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;21;3;0
+987;5;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+988;5;2;MARATONA;;FL 20' Riscaldamento- 8*1000 a X'XX" recupero FL 1'30" + 10' Defaticamento;100;0;Lavori;7;0;14;3;0
+989;5;3;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;3;0
+990;5;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;12;3;0
+991;5;5;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;3;0
+992;5;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+993;5;7;MARATONA;;Gara podistica 15 km da fare al Ritmo Maratona oppure Km. 22 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;25;3;0
+994;6;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+995;6;2;MARATONA;;FL 20' Riscaldamento- 3*5000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;18;3;0
+996;6;3;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 70 m.;80;90;;7;80;0;3;0
+997;6;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;3;0
+998;6;5;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+999;6;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;3;0
+1000;6;7;MARATONA;;Gara podistica 12 km [Ritmo Maratona - 15"] oppure Km. 28 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;3;0
+1001;7;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;3;0
+1002;7;2;MARATONA;;FL 20' Riscaldamento- 3*3000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;13;3;0
+1003;7;3;MARATONA;;FL 70' a X'XX";80;90;;7;80;0;3;0
+1004;7;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;3;0
+1005;12;3;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + defaticamento;80;90;;7;0;0;3;0
+1006;12;4;MARATONA;;FL 40' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;3;0
+1007;12;5;MARATONA;;FL 30' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;3;0
+1008;12;6;MARATONA;;Riposo oppure FL 30' a X'XX";80;0;;7;0;0;3;0
+1009;12;7;MARATONA;;Maratona Clou;80;0;;7;0;42;3;0
+1010;1;2;MARATONA;4;FL 80' a X'XX";80;0;;7;0;0;1;1
+1011;1;3;MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;12;1;1
+1012;1;4;MARATONA;;FL 70' a X'XX";80;0;;7;0;0;1;1
+1013;1;5;MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+1014;1;6;MARATONA;;FL 30' a X'XX" + CV 20' a X'XX";80;97;;7;0;0;1;1
+1015;1;7;MARATONA;;Gara podistica oppure FL 90' a X'XX" [Ritmo 88% della soglia];80;0;;7;0;12;1;1
+1016;2;1;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1017;2;2;MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;1
+1018;2;3;MARATONA;;FL 20' Riscaldamento + 10*1000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;14;1;1
+1019;2;4;MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;1
+1020;2;5;MARATONA;;FL 35' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+1021;2;6;MARATONA;;FL 20' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;1
+1022;2;7;MARATONA;;Gara podistica oppure FM 60' a X'XX";90;0;;7;0;12;1;1
+1023;3;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1024;3;2;MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;1;1
+1025;3;3;MARATONA;;FL 20' + 6*2000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;14;1;1
+1026;3;4;MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;1
+1027;3;5;MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+1028;3;6;MARATONA;;FL 25' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;1
+1029;3;7;MARATONA;;Gara podistica oppure FM 50' a X'XX";92;0;;7;0;12;1;1
+1030;4;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1031;4;2;MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;1
+1032;4;3;MARATONA;;FL 20' Riscaldamento + 5*1500 m. a X'XX" recupero 3';100;0;Lavori;7;0;11;1;1
+1033;4;4;MARATONA;;FL 70' a X'XX";80;0;;7;0;0;1;1
+1034;4;5;MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+1035;4;6;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;1
+1036;4;7;MARATONA;;Gara podistica oppure FM 60' a X'XX";90;0;;7;0;12;1;1
+1037;1;1;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+1038;1;2;MEZZA MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia] + CV 10' a X'XX";88;97;;7;0;0;1;2
+1039;1;3;MEZZA MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" recupero FL 3';103;0;Lavori;7;0;12;1;2
+1040;1;4;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+1041;1;5;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;2
+1042;1;6;MEZZA MARATONA;;FL 30' a X'XX" + CV 20' a X'XX";80;97;;7;0;0;1;2
+1043;3;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+1044;3;2;MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;1;2
+1045;3;3;MARATONA;;FL 20' + 6*1500 m. a X'XX" recupero 3'30;103;0;Lavori;7;0;11;1;2
+1046;3;4;MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;2
+1047;3;5;MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;2
+1048;3;6;MARATONA;;FL 25' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;2
+1049;3;7;MARATONA;;Gara podistica oppure FM 50' a X'XX";92;0;;7;0;10;1;2
+1050;4;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+1051;4;2;MARATONA;4;FL 80' a X'XX";80;0;;7;0;0;1;2
+1052;4;3;MARATONA;;FL 20' Riscaldamento + 4*2000 m. a X'XX" recupero FL 3'30";103;0;Lavori;7;0;11;1;2
+1053;4;4;MARATONA;;FL 70' a X'XX";80;0;;7;0;0;1;2
+1054;4;5;MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;2
+1055;4;6;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;2
+1056;4;7;MARATONA;;Gara podistica oppure FM 60' a X'XX";90;0;;7;0;10;1;2
+1057;1;1;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 8 x 60 m.;80;0;;4;0;0;4;0
+1058;1;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+1059;1;5;MEZZA MARATONA;;FL 75' a X'XX";80;0;;4;0;0;4;0
+1060;1;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+1061;2;1;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 8 x 60 m.;80;0;;4;0;0;4;0
+1062;2;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+1063;2;5;MEZZA MARATONA;;FL 80' a X'XX";80;0;;4;0;0;4;0
+1064;2;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+1065;3;1;MEZZA MARATONA;;FL 60' a X'XX"  + Allunghi 8 x 60 m.;80;0;;4;0;0;4;0
+1066;3;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+1067;3;5;MEZZA MARATONA;;FL 85' a X'XX";80;0;;4;0;0;4;0
+1068;3;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+1069;4;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 80 m.;80;0;;4;0;0;4;0
+1070;4;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+1071;4;5;MEZZA MARATONA;4;FL 90' a X'XX";80;0;;4;0;0;4;0
+1072;4;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+1073;5;1;MEZZA MARATONA;;FL 50' a X'XX" + Allunghi 10 x 80 m.;80;0;;4;0;0;4;0
+1074;5;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;4;97;0;4;0
+1075;5;5;MEZZA MARATONA;;FL 60' a X'XX";80;0;;4;0;0;4;0
+1076;5;7;MEZZA MARATONA;;Gara podistica 10 km. oppure FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;10;4;0
+1077;6;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 80 m.;80;0;;4;0;0;4;0
+1078;6;3;MEZZA MARATONA;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;4;0;0;4;0
+1079;6;5;MEZZA MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;4;0;0;4;0
+1080;14;1;MEZZA MARATONA;;FL 70' a X'XX";80;0;;4;0;0;4;0
+1081;14;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 10*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;4;0;10;4;0
+1082;14;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 11*400 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;4;80;11;4;0
+1083;14;7;MEZZA MARATONA;;Gara podistica 10 km [Ritmo 100%] oppure FL 30' a X'XX" + FM 40' a X'XX";80;90;;4;0;10;4;0
+1084;15;1;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;4;0;0;4;0
+1085;15;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 12*800 m. a X'XX" recupero FL 3' tra le serie;103;0;Lavori;4;0;12;4;0
+1086;15;5;MEZZA MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 10*500 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;4;80;12;4;0
+1087;15;7;MEZZA MARATONA;;Gara podistica 10 km oppure FM 40' a X'XX" + CV 15' a X'XX";90;97;;4;0;10;4;0
+1088;16;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;4;0;0;4;0
+1089;16;3;MEZZA MARATONA;;Riscaldamento 15'- Ripetute 3*3000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;4;0;11;4;0
+1090;16;5;MEZZA MARATONA;;FL 20' a X'XX" + FM 20' a X'XX";80;92;;4;0;0;4;0
+1091;16;7;MEZZA MARATONA;;Mezza Maratona Clou;90;0;;4;0;21;4;0
+1092;1;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1093;1;6;MEZZA MARATONA;;FL 50' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 40%];80;97;;7;100;0;4;0
+1094;2;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1095;2;6;MEZZA MARATONA;;FL 50' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;100;0;4;0
+1096;3;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1097;3;6;MEZZA MARATONA;;FL 50' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1098;4;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1099;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;4;0
+1100;5;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1101;5;6;MEZZA MARATONA;;FM 30' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FM del 40%];90;97;;7;100;0;4;0
+1102;6;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1103;6;6;MEZZA MARATONA;;FM 30' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FM del 40%];90;97;;7;100;0;4;0
+1104;7;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1105;7;6;MEZZA MARATONA;;FM 30' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FM del 40%];92;97;;7;100;0;4;0
+1106;8;2;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1107;8;6;MEZZA MARATONA;;FL 20' a X'XX" + FM 10' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;4;0
+1108;9;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1109;9;6;MEZZA MARATONA;;FL 50' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];88;97;;7;100;0;4;0
+1110;1;5;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;4;0
+1111;1;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;10;4;0
+1112;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1113;2;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;92;;7;0;0;4;0
+1114;2;5;STRADA 10-14 KM;4;FL 80' a X'XX";80;0;;7;0;0;4;0
+1115;2;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 60' a X'XX";80;0;;7;0;10;4;0
+1116;3;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1117;3;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1118;3;5;STRADA 10-14 KM;4;FL 85' a X'XX";80;0;;7;0;0;4;0
+1119;3;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;10;4;0
+1120;4;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;4;0
+1121;4;3;STRADA 10-14 KM;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1122;4;5;STRADA 10-14 KM;;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1123;4;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 70' a X'XX";80;0;;7;0;10;4;0
+1124;5;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;4;0
+1125;5;3;STRADA 10-14 KM;;FL 25' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 5' a X'XX" + CV 10' a X'XX";80;80;;7;100;0;4;0
+1126;5;5;STRADA 10-14 KM;;FL 60' a X'XX" in ambiente collinare;80;0;;7;0;0;4;0
+1127;5;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 80' a X'XX";80;0;;7;0;10;4;0
+1128;6;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;4;0
+1129;6;3;STRADA 10-14 KM;;FL 25' a X'XX" + 10 scatti in salita 100 m. con recupero FL in discesa + FL 10' a X'XX" + CV 10' a X'XX";80;80;;7;100;0;4;0
+1130;6;5;STRADA 10-14 KM;4;FL 40' a X'XX" + FM 20' a X'XX" in ambiente collinare;80;90;;7;0;0;4;0
+1131;6;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;10;4;0
+1132;7;1;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;4;0
+1133;7;3;STRADA 10-14 KM;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 10' a X'XX" + CV 10' a X'XX";80;80;;7;100;0;4;0
+1134;7;5;STRADA 10-14 KM;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1135;7;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 80' a X'XX";80;0;;7;0;10;4;0
+1136;8;1;STRADA 10-14 KM;4;FL 50' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;4;0
+1137;8;3;STRADA 10-14 KM;;FL 15' a X'XX" + 20' tecnica della corsa [80 mt. andature imitative della corsa] + FL 10' a X'XX" + CV 10' a X'XX";80;80;;7;100;0;4;0
+1138;8;5;STRADA 10-14 KM;4;FL 45' a X'XX" in ambiente collinare;80;0;;7;0;0;4;0
+1139;8;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FL 90' a X'XX";80;0;;7;0;10;4;0
+1140;9;1;STRADA 10-14 KM;;FL 70' a X'XX";80;0;;7;0;0;4;0
+1141;9;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 10*600 m. a X'XX" recupero FL 3' tra le serie;103;0;Lavori;7;0;8;4;0
+1142;9;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;4;0
+1143;9;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 30' a X'XX";100;0;;7;0;10;4;0
+1144;10;1;STRADA 10-14 KM;4;FL 70' a X'XX";80;0;;7;0;0;4;0
+1145;10;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 8*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;10;4;0
+1146;10;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 12*400 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;4;0
+1147;10;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 25' a X'XX";100;0;;7;0;10;4;0
+1148;11;1;STRADA 10-14 KM;4;FL 70' a X'XX";80;0;;7;0;0;4;0
+1149;11;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 12*800 m. a X'XX" recupero FL 3' tra le serie;103;0;Lavori;7;0;10;4;0
+1150;11;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 11*500 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;12;4;0
+1151;11;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 30' a X'XX";100;0;;7;0;10;4;0
+1152;12;1;STRADA 10-14 KM;;FL 50' a X'XX";80;0;;7;0;0;4;0
+1153;12;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 10*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;12;4;0
+1154;12;5;STRADA 10-14 KM;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 6*600 m. a X'XX" intervallati da 1' FL + FL 10' a X'XX";80;100;Lavori;7;80;9;4;0
+1155;12;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure CV 25' a X'XX";100;0;;7;0;10;4;0
+1156;13;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1157;13;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 8*1000 m. a X'XX" recupero FL 3' tra le serie;100;0;Lavori;7;0;10;4;0
+1158;13;5;STRADA 10-14 KM;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;4;0
+1159;13;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";90;0;;7;0;10;4;0
+1160;14;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1161;14;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 5*2000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;7;0;12;4;0
+1162;14;5;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1163;14;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";90;0;;7;0;10;4;0
+1164;15;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1165;15;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 10*1000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;7;0;12;4;0
+1166;15;5;STRADA 10-14 KM;;FL 30' a X'XX" + FM 10' a X'XX" + CV 10' a X'XX";80;90;;7;100;0;4;0
+1167;15;7;STRADA 10-14 KM;;Gara podistica 10 km. oppure FM 40' a X'XX";90;0;;7;0;10;4;0
+1168;16;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1169;16;3;STRADA 10-14 KM;;Riscaldamento 15'- Ripetute 5*1000 m. a X'XX" recupero FL 4' tra le serie;97;0;Lavori;7;0;12;4;0
+1170;16;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;4;0
+1171;16;7;STRADA 10-14 KM;;Gara su strada Clou;90;0;;7;0;10;4;0
+1172;1;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1173;1;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1174;1;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [Ridurre tempo FL del 30% se domenica gara];80;80;;7;100;0;5;0
+1175;2;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1176;2;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [Ridurre tempo FL del 30% se domenica gara];80;80;;7;100;0;5;0
+1177;3;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1178;3;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [Ridurre tempo FL del 30% se domenica gara];80;80;;7;100;0;5;0
+1179;4;2;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1180;4;6;STRADA 10-14 KM;;FL 50' a X'XX";80;80;;7;100;0;5;0
+1181;5;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1182;5;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [Ridurre tempo FL del 30% se domenica gara];80;80;;7;100;0;5;0
+1183;6;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1184;6;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [Ridurre tempo FL del 30% se domenica gara];80;80;;7;100;0;5;0
+1185;7;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1186;7;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 30% se domenica gara];80;97;;7;100;0;5;0
+1187;8;2;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1188;8;6;STRADA 10-14 KM;;FL 15' a X'XX" + FM 15' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1189;9;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1190;9;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 30% se domenica gara];80;97;;7;100;0;5;0
+1191;10;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1192;10;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 20% se domenica gara];80;97;;7;100;0;5;0
+1193;11;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1194;11;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;97;;7;100;0;5;0
+1195;12;2;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1196;12;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;100;;7;100;0;5;0
+1197;13;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1198;13;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;100;;7;100;0;5;0
+1199;14;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1200;14;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;100;;7;100;0;5;0
+1201;15;2;STRADA 10-14 KM;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+1202;15;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 15' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;100;;7;100;0;5;0
+1203;3;4;STRADA 10-14 KM;;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;5;0
+1204;4;4;STRADA 10-14 KM;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1205;5;4;STRADA 10-14 KM;4;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;5;0
+1206;6;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 15' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1207;7;4;STRADA 10-14 KM;;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;5;0
+1208;8;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 15' a X'XX";80;92;;7;100;0;5;0
+1209;9;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1210;10;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1211;11;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1212;12;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;92;;7;100;0;5;0
+1213;13;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1214;14;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1215;15;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;5;0
+1216;16;4;STRADA 10-14 KM;;FL 15' a X'XX" + FM 10' a X'XX" + CV 10' a X'XX";80;90;;7;100;0;5;0
+1217;17;4;STRADA 10-14 KM;;FL 50' a X'XX"  + Allunghi 10 x 100 m.;80;80;;7;100;0;5;0
+1218;18;4;STRADA 10-14 KM;;FL 15' a X'XX" + FM 10' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;5;0
+1219;19;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1220;20;4;STRADA 10-14 KM;4;FL 40' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1221;1;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1222;2;4;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;4;0
+1223;3;4;STRADA 10-14 KM;;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;4;0
+1224;4;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1225;5;4;STRADA 10-14 KM;;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;4;0
+1226;6;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 15' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;4;0
+1227;7;4;STRADA 10-14 KM;;FL 50' a X'XX" su percorso collinare o con almeno una salita lunga 1 km [pendenza 4-7%];80;0;;7;0;0;4;0
+1228;8;4;STRADA 10-14 KM;;FL 45' a X'XX" + FM 15' a X'XX";80;92;;7;100;0;4;0
+1229;9;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1230;10;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1231;11;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1232;12;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 30' a X'XX";80;90;;7;100;0;4;0
+1233;13;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1234;14;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1235;1;4;CORSA A TAPPE;;FL 15' a X'XX" +  FL 30' a X'XX" in salita (mantenere il pi¨ possibile il ritmo del FL) + discesa in scioltezza + 10' defaticamento;80;90;;7;0;0;1;0
+1236;1;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1237;1;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;1;0
+1238;1;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;1;0
+1239;2;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1240;2;2;CORSA A TAPPE;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+1241;2;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 4*2000 m a X'XX"- recupero 3'30" FLL;100;0;Lavori;7;0;11;1;0
+1242;2;4;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;1;0
+1243;2;5;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1244;2;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;1;0
+1245;2;7;CORSA A TAPPE;;Gara podistica 10 km. oppure FM 50' a X'XX" su percorso collinare;90;0;;7;0;10;1;0
+1246;3;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1247;3;2;CORSA A TAPPE;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;90;;7;0;0;1;0
+1248;3;3;CORSA A TAPPE;;Riscaldamento FL 15'- Ripetute 12*300 m a X'XX"- recupero 1'15" FLL;106;0;Lavori;7;0;7;1;0
+1249;3;4;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;1;0
+1250;3;5;CORSA A TAPPE;;FL 15' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;1;0
+1251;3;6;CORSA A TAPPE;;FL 45' a X'XX";80;90;;7;0;0;1;0
+1252;3;7;CORSA A TAPPE;;Gara podistica 10 km. oppure CV 35' a X'XX";100;0;;7;0;10;1;0
+1253;4;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1254;4;2;CORSA A TAPPE;;FL 50' a X'XX" [Ritmo 88% della soglia];88;90;;7;0;0;1;0
+1255;4;3;CORSA A TAPPE;;Riscaldamento FL 15'- 6*1000 m a X'XX"- recupero 2'30" FLL;103;0;Lavori;7;0;8;1;0
+1256;4;4;CORSA A TAPPE;;FL 50' a X'XX";80;90;;7;0;0;1;0
+1257;4;5;CORSA A TAPPE;4;FL 30' a X'XX" + CV 15' a X'XX";80;100;;7;0;0;1;0
+1258;4;6;CORSA A TAPPE;;FL 20' a X'XX" + FM 10' a X'XX";80;92;;7;0;0;1;0
+1259;4;7;CORSA A TAPPE;;Riposo in previsione della prima tappa il lunedi seguente;100;0;;7;0;0;1;0
+1260;1;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;4
+1261;1;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;1;4
+1262;1;3;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;10;1;4
+1263;1;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;1;4
+1264;1;5;PREPARAZIONE BASE;;FL 30' a X'XX" + Stretching;80;90;;7;0;0;1;4
+1265;1;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;1;4
+1266;1;7;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;80;;7;0;0;1;4
+1267;2;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Stretching;80;0;;7;0;0;1;4
+1268;2;3;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1269;2;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1270;2;5;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1271;2;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;2;4
+1272;2;7;PREPARAZIONE BASE;;FL 40' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1273;3;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1274;3;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1275;3;3;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;2;4
+1276;3;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1277;3;5;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;4
+1278;3;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;2;4
+1279;3;7;PREPARAZIONE BASE;;FL 50' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1280;4;1;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1281;4;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 10 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1282;4;3;PREPARAZIONE BASE;;FL 40' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1283;4;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1284;4;5;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;4
+1285;4;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;2;4
+1286;4;7;PREPARAZIONE BASE;;FL 60' a X'XX";80;0;;7;0;0;2;4
+1287;5;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1288;5;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1289;5;3;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1290;5;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1291;5;5;PREPARAZIONE BASE;;FL 30' a X'XX" su percorso collinare + Stretching;80;90;;7;0;0;2;4
+1292;5;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;2;4
+1293;5;7;PREPARAZIONE BASE;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;80;;7;0;0;2;4
+1294;6;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1295;6;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1296;6;3;PREPARAZIONE BASE;;FL 30' a X'XX"  su percorso collinare + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1297;3;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1298;3;2;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;1;1
+1299;3;3;MEZZA MARATONA;;FL 20' Riscaldamento  + 12*800 m. a X'XX" recupero FL 3'00;106;0;Lavori;7;0;11;1;1
+1300;3;4;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;1
+1301;3;5;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;97;0;1;1
+1302;3;6;MEZZA MARATONA;;FL 25' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;1
+1303;3;7;MEZZA MARATONA;;Gara podistica oppure FM 50' a X'XX";90;0;;7;0;10;1;1
+1304;4;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1305;4;2;MEZZA MARATONA;4;FL 60' a X'XX" [Ritmo 88% della soglia] + FM 20' a X'XX";88;90;;7;0;0;1;1
+1306;4;3;MEZZA MARATONA;;FL 20' Riscaldamento + 5*1500 m. a X'XX" recupero FL 3';103;0;Lavori;7;0;11;1;1
+1307;4;4;MEZZA MARATONA;;FL 70' a X'XX";80;0;;7;0;0;1;1
+1308;4;5;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;1
+1309;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;1
+1310;4;7;MEZZA MARATONA;;Gara podistica oppure CV 30' a X'XX";100;0;;7;0;10;1;1
+1311;1;2;STRADA 10-14 KM;4;FL 50' a X'XX" su percorso collinare + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+1312;1;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;2
+1313;2;2;STRADA 10-14 KM;4;FL 30' a X'XX" + FM 20' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;1;2
+1314;2;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;2
+1315;3;2;STRADA 10-14 KM;4;FL 60' a X'XX";80;0;;7;0;0;1;2
+1316;3;6;STRADA 10-14 KM;;FM 20' a X'XX" + CV 10' a X'XX";90;97;;7;0;0;1;2
+1317;4;2;STRADA 10-14 KM;4;FL 60' a X'XX";80;0;;7;0;0;1;2
+1318;4;6;STRADA 10-14 KM;;FM 20' a X'XX" + CV 10' a X'XX";90;100;;7;0;0;1;2
+1319;1;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1320;1;6;MEZZA MARATONA;;FL 20' a X'XX" (Ritmo Mezza Maratona) + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;100;0;5;0
+1321;2;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1322;2;6;MEZZA MARATONA;;FL 25' a X'XX" (Ritmo Mezza Maratona) + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;100;0;5;0
+1323;3;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1324;3;6;MEZZA MARATONA;;FL 30' a X'XX"  (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;100;0;5;0
+1325;4;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1326;4;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1327;5;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1328;5;6;MEZZA MARATONA;;FL 20' a X'XX" (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;97;;7;100;0;5;0
+1329;6;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1330;10;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 45' a X'XX";80;92;;7;0;0;5;0
+1331;11;4;MEZZA MARATONA;;FL 15' a X'XX" + FM 50' a X'XX";80;92;;7;0;0;5;0
+1332;12;4;MEZZA MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1333;13;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1334;14;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1335;15;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;5;0
+1336;16;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 25' a X'XX" + CV 25' a X'XX";80;88;;7;97;0;5;0
+1337;17;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1338;17;6;MEZZA MARATONA;;FL 30' a X'XX" + CV 20' a X'XX" se domenica gara ridurre tempo FL del 30%;80;97;;7;;0;5;0
+1339;18;2;MEZZA MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 100 m;80;0;;7;0;0;5;0
+1340;18;6;MEZZA MARATONA;;FL 35' a X'XX" + CV 25' a X'XX" se domenica gara ridurre tempo FL del 30%;80;97;;7;100;0;5;0
+1341;19;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m;80;0;;7;0;0;5;0
+1342;19;6;MEZZA MARATONA;;FL 30' a X'XX" + CV 30' a X'XX" se domenica gara ridurre tempo FL del 30%;80;97;;7;100;0;5;0
+1343;20;2;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m;80;0;;7;0;0;5;0
+1344;20;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;80;100;;7;0;0;5;0
+1345;17;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1346;18;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1347;19;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;5;0
+1348;20;4;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1349;1;1;MARATONA;;FL 90' a X'XX" + Allunghi 8 x 70 m.;80;0;;7;0;0;4;0
+1350;1;2;MARATONA;;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1351;1;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1352;1;4;MARATONA;;FL 20' Riscaldamento- 7*1000 m. a X'XX", recupero FL 400 m. a X'XX" + Stretching;97;80;Lavori;7;0;14;4;0
+1353;1;5;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";80;92;;7;80;0;4;0
+1354;1;6;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1355;1;7;MARATONA;;Gara podistica 10 km oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;100;;7;0;12;4;0
+1356;2;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1357;2;2;MARATONA;;FL 40' a X'XX" [Ritmo 88% della soglia] + FM 20' a X'XX";88;90;;7;0;0;4;0
+1358;2;3;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1359;2;4;MARATONA;;FL 20' Riscaldamento- 4*2000 m. a X'XX", recupero FL 800 m. a X'XX" + Stretching;97;80;Lavori;7;0;15;4;0
+1360;2;5;MARATONA;;FL 25' a X'XX" + FM 40' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;4;0
+1361;2;6;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1362;2;7;MARATONA;;Gara podistica 10 km. oppure FL 80' a X'XX" [Ritmo 88% della soglia];88;100;;7;0;12;4;0
+1363;7;4;MARATONA;;FL 20' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;4;0
+1364;7;5;MARATONA;;FL 5' Riscaldamento + 10*1000 m. a X'XX" intervallati da 1'15" FL;100;0;Lavori;7;0;14;4;0
+1365;7;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1366;7;7;MARATONA;;Gara podistica 12-15 km oppure Km. 30 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;4;0
+1367;8;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1368;8;2;MARATONA;;FL 45' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;4;0
+1369;8;3;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1370;8;4;MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1371;8;5;MARATONA;;FL 30' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1372;8;6;MARATONA;;Riposo oppure FL 30' a X'XX" + Allunghi 5 x 60 m.;80;0;;7;0;0;4;0
+1373;8;7;MARATONA;;Gara Mezza maratona oppure Km. 25 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;21;4;0
+1374;9;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1375;9;2;MARATONA;;FL 15' Riscaldamento- 3*5000 m. a X'XX" recupero FL 7' + 10' Defaticamento;97;0;Lavori;7;0;16;4;0
+1376;9;3;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;4;0
+1377;9;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;13;4;0
+1378;9;5;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1379;9;6;MARATONA;;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1380;9;7;MARATONA;;Gara podistica 15 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;4;0
+1381;10;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1382;10;2;MARATONA;;FL 20' Riscaldamento- 1*4000 m. a X'XX" recupero FL 5' +  2*3000 m. a X'XX" recupero FL 4';97;97;Lavori;7;0;15;4;0
+1383;10;3;MARATONA;;FL 90' a X'XX";80;0;;7;0;0;4;0
+1384;10;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1385;10;5;MARATONA;4;FL 90' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 70 m.;88;0;;7;0;0;4;0
+1386;10;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1387;10;7;MARATONA;;Gara podistica 15 km. oppure FM 70' a X'XX" [Ritmo 88% della soglia];90;0;;7;0;15;4;0
+1388;11;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1389;11;2;MARATONA;;FL 15' Riscaldamento- 4*3000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;16;4;0
+1390;11;3;MARATONA;;FL 90' a X'XX";80;0;;7;0;0;4;0
+1391;11;4;MARATONA;;FL 20' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;4;0
+1392;11;5;MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" intervallati da 1'15" FL;100;0;Lavori;7;0;15;4;0
+1393;11;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1394;11;7;MARATONA;;Gara podistica 12-15 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;4;0
+1395;12;1;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1396;12;2;MARATONA;;FL 45' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;4;0
+1397;1;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;100;0;4;0
+1398;2;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1399;2;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1400;3;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1401;3;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1402;4;2;STRADA 10-14 KM;4;FL 50' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1403;4;6;STRADA 10-14 KM;;FM 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 30%];88;100;;7;100;0;4;0
+1404;5;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1405;5;6;STRADA 10-14 KM;;FM 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 20%];90;100;;7;100;0;4;0
+1406;6;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1407;6;6;STRADA 10-14 KM;;FM 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 20%];90;97;;7;100;0;4;0
+1408;7;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1409;7;6;STRADA 10-14 KM;;FM 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FM del 20%];90;97;;7;100;0;4;0
+1410;8;2;STRADA 10-14 KM;4;FL 40' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1411;8;6;STRADA 10-14 KM;;FL 15' a X'XX" + CV 15' a X'XX";80;80;;7;100;0;4;0
+1412;9;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1413;9;6;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 5 x 100 m. [se domenica gara ridurre FL del 20%];80;80;;7;100;0;4;0
+1414;10;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1415;10;6;STRADA 10-14 KM;;FL 40' a X'XX" + Allunghi 5 x 100 m. [se domenica gara ridurre FL del 20%];80;80;;7;100;0;4;0
+1416;11;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1417;11;6;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 5 x 100 m. [se domenica gara ridurre FL del 20%];80;80;;7;100;0;4;0
+1418;12;2;STRADA 10-14 KM;4;FL 45' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1419;12;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1420;13;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1421;13;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1422;14;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1423;14;6;STRADA 10-14 KM;;FL 50' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 20%];80;100;;7;100;0;4;0
+1424;15;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1425;15;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX"  [se domenica gara ridurre FL del 20%];80;97;;7;100;0;4;0
+1426;16;2;STRADA 10-14 KM;4;FL 40' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;4;0
+1427;16;6;STRADA 10-14 KM;;Riposo oppure FL 15' a X'XX" + CV 15' a X'XX";80;80;;7;100;0;4;0
+1428;16;2;STRADA 10-14 KM;4;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+1429;16;6;STRADA 10-14 KM;;FL 15' a X'XX" + FM 10' a X'XX" + CV 20' a X'XX" [Eliminare il FM se domenica gara];80;90;;7;100;0;5;0
+1430;17;2;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1431;17;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;100;;7;0;0;5;0
+1432;18;2;STRADA 10-14 KM;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+1433;18;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;97;;7;100;0;5;0
+1434;19;2;STRADA 10-14 KM;4;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+1435;19;6;STRADA 10-14 KM;;FL 30 a X'XX" + CV 10' a X'XX" [Ridurre tempo FL del 10% se domenica gara];80;97;;7;100;0;5;0
+1436;20;2;STRADA 10-14 KM;4;FL 50' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;5;0
+1437;20;6;STRADA 10-14 KM;;Riposo oppure FL 15' a X'XX" + CV 15' a X'XX";80;80;;7;100;0;5;0
+1438;1;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 5 x 100 m.;80;0;;7;0;0;1;2
+1439;1;3;STRADA 10-14 KM;;Riscaldamento FL 15'- 7*1000 m a X'XX"- Recupero 1' 30";103;0;Lavori;7;0;8;1;2
+1440;1;4;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;1;2
+1441;1;5;STRADA 10-14 KM;;Riscaldamento FL 15'- 8*400 m a X'XX"- Recupero 1' 30";106;0;;7;0;0;1;2
+1442;1;7;STRADA 10-14 KM;;Gara Podistica oppure FM 40' a X'XX";92;0;;7;0;10;1;2
+1443;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 6 x 100 m.;80;0;;7;0;0;1;2
+1444;2;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 3*2000 m. a X'XX"- Recupero 4';100;0;Lavori;7;0;8;1;2
+1445;2;4;STRADA 10-14 KM;4;FL 60' a X'XX" + allunghi 6 x 100 m.;80;0;;7;0;0;1;2
+1446;2;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;90;;7;97;0;1;2
+1447;2;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX";92;0;;7;0;10;1;2
+1448;3;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;2
+1449;3;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 2*2000 m. a X'XX" + 3*1000 m a X'XX"- Recupero 4';100;103;Lavori;7;0;7;1;2
+1450;3;4;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 5 x 100 m.;100;0;;7;0;0;1;2
+1451;3;5;STRADA 10-14 KM;;FM 30' a X'XX" + CV 10' a X'XX" + FM 10' a X'XX";90;100;;7;90;0;1;2
+1452;3;7;STRADA 10-14 KM;;Gara Podistica oppure FM 35' a X'XX";97;0;;7;0;10;1;2
+1453;4;1;STRADA 10-14 KM;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;2
+1454;4;3;STRADA 10-14 KM;;Riscaldamento FL 15'- Ripetute 5-7*1000 m a X'XX" - Recupero 3';103;0;Lavori;7;0;8;1;2
+1455;4;4;STRADA 10-14 KM;;FL 50' a X'XX" + Allunghi 4 x 100 m.;80;0;;7;0;0;1;2
+1456;4;5;STRADA 10-14 KM;;FM 30' a X'XX";92;0;;7;0;0;1;2
+1457;4;7;STRADA 10-14 KM;;Gara Podistica Clou;97;0;;7;0;10;1;2
+1458;1;4;STRADA 10-14 KM;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1459;2;4;STRADA 10-14 KM;;FL 40' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;5;0
+1460;15;4;STRADA 10-14 KM;;FL 20' a X'XX" + FM 25' a X'XX";80;92;;7;0;0;4;0
+1461;16;4;STRADA 10-14 KM;;FL 15' a X'XX" + FM 15' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;4;0
+1462;1;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+1463;1;2;STRADA 10-14 KM;4;FL 30' a X'XX" + 10x80 m [scatti in salita] + FL 20' a X'XX";80;80;;7;0;0;1;0
+1464;1;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 3*2000 m. a X'XX" recupero 3'30;100;0;Lavori;7;0;10;1;0
+1465;1;4;STRADA 10-14 KM;;FL 60' a X'XX" (Con Ritmo all'88% della soglia);88;0;;7;0;0;1;0
+1466;1;5;STRADA 10-14 KM;;FL 30' a X'XX" + 10x80 m [scatti in salita] + FL 20' a X'XX";80;80;;7;0;0;1;0
+1467;1;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;0
+1468;1;7;STRADA 10-14 KM;;Gara podistica oppure CV 40' a X'XX";97;0;;7;0;10;1;0
+1469;2;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+1470;2;2;STRADA 10-14 KM;4;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+1471;2;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 7*1000 m. a X'XX" recupero 3'30;103;0;Lavori;7;0;10;1;0
+1472;2;4;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;1;0
+1473;2;5;STRADA 10-14 KM;;FL 20' Riscaldamento + 12*300 m. a X'XX" recupero 1'30;106;0;Lavori;7;0;7;1;0
+1474;2;6;STRADA 10-14 KM;;FL 30' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;0;0;1;0
+1475;2;7;STRADA 10-14 KM;;Gara podistica oppure FM 50' a X'XX";92;0;;7;0;10;1;0
+1476;3;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+1477;3;2;STRADA 10-14 KM;4;FL 60' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+1478;3;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 10*800 m. a X'XX" recupero 1'30;103;0;Lavori;7;0;10;1;0
+1479;3;4;STRADA 10-14 KM;;FL 60' a X'XX";80;0;;7;0;0;1;0
+1480;3;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX" + CV 10' a X'XX";80;90;;7;98;0;1;0
+1481;3;6;STRADA 10-14 KM;;FL 40' a X'XX" + CV 10' a X'XX" [se domenica gara ridurre FL del 30%];80;97;;7;0;0;1;0
+1482;3;7;STRADA 10-14 KM;;Gara podistica oppure CV 40' a X'XX";100;0;;7;0;10;1;0
+1483;4;1;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+1484;4;2;STRADA 10-14 KM;;FM 50' a X'XX";90;0;;7;0;0;1;0
+1485;4;3;STRADA 10-14 KM;;FL 15' Riscaldamento + 2*2000 m. a X'XX" recupero 3'30  +  2*1000 m. a X'XX";100;103;Lavori;7;0;8;1;0
+1486;4;4;STRADA 10-14 KM;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;0
+1487;4;5;STRADA 10-14 KM;;FL 20' a X'XX" + FM 20' a X'XX";80;92;;7;0;0;1;0
+1488;4;6;STRADA 10-14 KM;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;0
+1489;4;7;STRADA 10-14 KM;;Gara podistica Clou;100;0;;7;0;10;1;0
+1490;1;1;CORSA A TAPPE;;FL 60' a X'XX" + Allunghi 8 x 100 m.;80;0;;7;0;0;1;0
+1491;1;2;CORSA A TAPPE;4;FL 70' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;1;0
+1492;1;3;CORSA A TAPPE;;Riscaldamento FL 15'- Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;100;0;Lavori;7;0;12;1;0
+1493;2;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;1;4
+1494;2;3;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;10;1;4
+1495;2;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;1;4
+1496;2;5;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;7;1;4
+1497;2;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;1;4
+1498;2;7;PREPARAZIONE BASE;;FL 40' a X'XX" + Stretching;80;0;;7;0;0;1;4
+1499;3;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;4
+1500;3;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;1;4
+1501;3;3;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;8;1;4
+1502;3;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;1;4
+1503;3;5;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;4
+1504;3;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;4
+1505;3;7;PREPARAZIONE BASE;;FL 50' a X'XX" + Stretching;80;0;;7;0;0;1;4
+1506;4;1;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;4
+1507;4;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 10 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;1;4
+1508;4;3;PREPARAZIONE BASE;;FL 40' a X'XX" + Stretching;80;0;;7;0;0;1;4
+1509;4;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;1;4
+1510;4;5;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;1;4
+1511;4;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;1;4
+1512;4;7;PREPARAZIONE BASE;;FL 60' a X'XX";80;0;;7;0;0;1;4
+1513;1;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1514;1;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1515;1;3;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1516;1;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1517;1;5;PREPARAZIONE BASE;;FL 30' a X'XX" + Stretching;80;90;;7;0;0;2;4
+1518;1;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 10' a X'XX";80;90;;7;0;0;2;4
+1519;1;7;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;80;;7;0;0;2;4
+1520;2;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1521;2;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1522;6;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1523;6;5;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1524;6;6;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;2;4
+1525;6;7;PREPARAZIONE BASE;;FL 60' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1526;7;1;PREPARAZIONE BASE;;FL 30' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1527;7;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1528;7;3;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;4
+1529;7;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 8 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1530;7;5;PREPARAZIONE BASE;;FL 25' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;4
+1531;7;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;2;4
+1532;7;7;PREPARAZIONE BASE;;FL 70' a X'XX" + Stretching;80;0;;7;0;0;2;4
+1533;8;1;PREPARAZIONE BASE;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;2;4
+1534;8;2;PREPARAZIONE BASE;;FL 20' a X'XX" + 10 x 60 m. scatti in salita pendenza max 6-7%  ritorno al passo + FL 15' a X'XX";80;80;;7;0;0;2;4
+1535;8;3;PREPARAZIONE BASE;;FL 40' a X'XX" su percorso collinare + Stretching;80;0;;7;0;0;2;4
+1536;8;4;PREPARAZIONE BASE;;FL 20' a X'XX" + 15' Andature imitative della corsa (skip, balzi, corsa calciata, etc) 80 m. esercizio + ritorno al passo + CL 10' a X'XX";80;80;;7;0;0;2;4
+1537;8;5;PREPARAZIONE BASE;;FL 20' a X'XX" + FM 20' a X'XX";80;90;;7;0;0;2;4
+1538;8;6;PREPARAZIONE BASE;;FL 20' a X'XX" + CV 10' a X'XX";80;97;;7;0;0;2;4
+1539;8;7;PREPARAZIONE BASE;;FL 70' a X'XX";80;0;;7;0;0;2;4
+1540;1;1;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1541;1;2;MEZZA MARATONA;4;FL 50' a X'XX" [Ritmo 88% della soglia]  + CV 10' a X'XX";88;100;;7;0;0;1;1
+1542;1;3;MEZZA MARATONA;;FL 15' Riscaldamento + 10*1000 m. a X'XX" recupero FL 3';103;0;Lavori;7;0;12;1;1
+1543;1;4;MEZZA MARATONA;;FL 45' a X'XX" + Allunghi 15 x 100 m.;80;0;;7;0;0;1;1
+1544;1;5;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;92;;7;0;0;1;1
+1545;1;6;MEZZA MARATONA;;FL 30' a X'XX" + CV 20' a X'XX";80;97;;7;0;0;1;1
+1546;1;7;MEZZA MARATONA;;Gara podistica oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;10;1;1
+1547;2;1;MEZZA MARATONA;;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;1;1
+1548;2;2;MEZZA MARATONA;4;FL 70' a X'XX";80;0;;7;0;0;1;1
+1549;2;3;MEZZA MARATONA;;FL 20' Riscaldamento + 15*500 m. a X'XX" recupero FL 3'00;106;0;Lavori;7;0;10;1;1
+1550;2;4;MEZZA MARATONA;;FL 60' a X'XX";80;0;;7;0;0;1;1
+1551;2;5;MEZZA MARATONA;;FL 15' a X'XX" + FM 15' a X'XX" + CV 10' a X'XX";80;90;;7;100;0;1;1
+1552;2;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 15' a X'XX";80;97;;7;0;0;1;1
+1553;2;7;MEZZA MARATONA;;Gara podistica oppure FM 60' a X'XX" [Ritmo Mezza Maratona - 5"];92;0;;7;0;10;1;1
+1554;6;6;MEZZA MARATONA;;FL 25' a X'XX"  (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;97;;7;100;0;5;0
+1555;7;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1556;7;6;MEZZA MARATONA;;FL 30' a X'XX"  (Ritmo Mezza Maratona)  + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;97;;7;100;0;5;0
+1557;8;2;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1558;8;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1559;9;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1560;9;6;MEZZA MARATONA;;FL 40' a X'XX"  (Ritmo Mezza Maratona)  + Allunghi 5 x 100 m [se domenica gara ridurre tempo FL del 30%];88;80;;7;100;0;5;0
+1561;10;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1562;10;6;MEZZA MARATONA;;FL 40' a X'XX"  [(Ritmo Mezza Maratona)  + Allunghi 5 x 100 m. [se domenica gara ridurre tempo FL del 20%];88;80;;7;100;0;5;0
+1563;11;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1564;11;6;MEZZA MARATONA;;FL 40' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 5 x 100 m [se domenica gara ridurre tempo FL del 10%];88;80;;7;100;0;5;0
+1565;12;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1566;12;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";88;100;;7;0;0;5;0
+1567;13;2;MEZZA MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1568;13;6;MEZZA MARATONA;;FL 50' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 5 x 100 m [se domenica gara ridurre tempo FL del 30%];88;80;;7;100;0;5;0
+1569;14;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1570;14;6;MEZZA MARATONA;;FL 50' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 5 x 100 m [se domenica gara ridurre tempo FL del 20%];88;80;;7;100;0;5;0
+1571;15;2;MEZZA MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1572;15;6;MEZZA MARATONA;;FL 50' a X'XX"  [Ritmo 88% della soglia]  + Allunghi 5 x 100 m [se domenica gara ridurre tempo FL del 10%];88;80;;7;100;0;5;0
+1573;16;2;MEZZA MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1574;16;6;MEZZA MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1575;1;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;92;;7;100;0;5;0
+1576;2;4;MEZZA MARATONA;;FL 35' a X'XX" + FM 25' a X'XX";80;92;;7;100;0;5;0
+1577;3;4;MEZZA MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;92;;7;100;0;5;0
+1578;4;4;MEZZA MARATONA;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1579;5;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 20' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1580;6;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 25' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1581;7;4;MEZZA MARATONA;;FL 40' a X'XX" + FM 30' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1582;8;4;MEZZA MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1583;9;4;MEZZA MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;92;;7;0;0;5;0
+1584;3;1;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1585;3;2;MARATONA;;FL 20' Riscaldamento- 2*2000 m. a X'XX" recupero FL 5'30" + 1*3000 m. a X'XX" recupero FL 7' + 2*2000 m. a X'XX" + defaticamento 10' CLL;97;97;Lavori;7;97;15;4;0
+1586;3;3;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1587;3;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;12;4;0
+1588;3;5;MARATONA;4;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1589;3;6;MARATONA;;FL 50' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1590;3;7;MARATONA;;Gara podistica 10 km. (impegno allenamento) oppure FL 80' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;4;0
+1591;4;1;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1592;4;2;MARATONA;;FL 15' Riscaldamento + 1*5000 m. a X'XX" + recupero 2 km FL + 1*3000 m. a X'XX" + recupero 2 km FL + 1*1000 m. a X'XX" + defaticamento;80;90;Lavori;7;100;16;4;0
+1593;4;3;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1594;4;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1595;4;5;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 15*300 m. a X'XX" intervallati da 1' FL;80;100;Lavori;7;0;16;4;0
+1596;4;6;MARATONA;;FL 30' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1597;4;7;MARATONA;;Gara podistica 12-15 km oppure FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;13;4;0
+1598;5;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1599;5;2;MARATONA;;FL 20' Riscaldamento- 10*1000 a X'XX" recupero FL 1'30" + 10' Defaticamento;100;0;Lavori;7;0;14;4;0
+1600;5;3;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;4;0
+1601;5;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 13*500 m. a X'XX" intervallati da 1' FL;80;97;Lavori;7;0;14;4;0
+1602;5;5;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1603;5;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1604;5;7;MARATONA;;Gara podistica 15 km da fare al Ritmo Maratona oppure Km. 25 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;4;0
+1605;6;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1606;6;2;MARATONA;;FL 20' Riscaldamento- 1*4000 m. a X'XX" recupero FL 5' + 2*2000 a X'XX" recupero FL 3' +  10' Defaticamento;97;100;Lavori;7;0;14;4;0
+1607;6;3;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1608;6;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1609;6;5;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1610;6;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1611;6;7;MARATONA;;Gara podistica  max. 15 km [Ritmo Maratona-10"] oppure Km. 28 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1612;7;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1613;7;2;MARATONA;;FL 20' Riscaldamento- 3*3000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;97;0;Lavori;7;0;13;4;0
+1614;7;3;MARATONA;;FL 80' a X'XX";80;90;;7;80;0;4;0
+1615;12;3;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1616;12;4;MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1617;12;5;MARATONA;;FL 30' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1618;12;6;MARATONA;;FL 40' a X'XX";80;0;;7;0;0;4;0
+1619;12;7;MARATONA;;Gara podistica circa 15 km oppure Km. 35 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;4;0
+1620;13;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1621;13;2;MARATONA;;FL 15' Riscaldamento- 12*1000 m. a X'XX" recupero FL 1'30" + 10' Defaticamento;100;0;Lavori;7;0;16;4;0
+1622;13;3;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + FL 10' a X'XX";80;90;;7;80;0;4;0
+1623;13;4;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 15*300 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;Lavori;7;80;15;4;0
+1624;13;5;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1625;13;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1626;13;7;MARATONA;;Gara podistica 15 km oppure Km. 25 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;4;0
+1627;14;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1628;14;2;MARATONA;;FL 20' Riscaldamento- 3*5000 m. a X'XX" recupero FL 4'30" + 10' Defaticamento;97;0;Lavori;7;0;17;4;0
+1629;14;3;MARATONA;;FL 80' a X'XX"  [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1630;14;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;4;0
+1631;14;5;MARATONA;;FL 90' a X'XX" + Allunghi 10 x 70 m.;80;0;;7;0;0;4;0
+1632;14;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1633;14;7;MARATONA;;Gara podistica 15 km oppure Km. 22 a X'XX" [Ritmo 88% della soglia];88;0;;7;0;15;4;0
+1634;15;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1635;15;2;MARATONA;;FL 15' Riscaldamento- 4*3000 m. a X'XX" recupero FL 3'30" + 10' Defaticamento;97;0;Lavori;7;0;16;4;0
+1636;15;3;MARATONA;;FL 80' a X'XX";80;0;;7;0;0;4;0
+1637;15;4;MARATONA;;FL 20' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;4;0
+1638;15;5;MARATONA;;FL 20' a X'XX" + Fartlek su terreno pianeggiante 12*400 m. a X'XX" intervallati da 1' FL + FL 15' a X'XX";80;100;Lavori;7;80;15;4;0
+1639;15;6;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 50 m.;80;0;;7;0;0;4;0
+1640;15;7;MARATONA;;Gara podistica max. 12 km [Ritmo 97%] oppure FL 70' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;12;4;0
+1641;16;1;MARATONA;;FL 60' a X'XX" + Allunghi 10 x 60 m.;80;0;;7;0;0;4;0
+1642;16;2;MARATONA;;FL 45' a X'XX" + FM 15' a X'XX";80;90;;7;0;0;4;0
+1643;16;3;MARATONA;;FL 20' a X'XX" + FM 20' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1644;16;4;MARATONA;;FL 40' a X'XX" [Ritmo 88% della soglia];88;0;;7;0;0;4;0
+1645;16;5;MARATONA;;FL 30' a X'XX" + FM 15' a X'XX" + defaticamento;80;90;;7;0;0;4;0
+1646;16;6;MARATONA;;Riposo oppure FL 30' a X'XX";80;0;;7;0;0;4;0
+1647;16;7;MARATONA;;Maratona Clou;80;0;;7;0;42;4;0
+1648;1;2;MARATONA;;FL 70' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;5;0
+1649;1;6;MARATONA;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];80;100;;7;100;0;5;0
+1650;2;2;MARATONA;4;FL 80' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m;88;0;;7;0;0;5;0
+1651;2;6;MARATONA;;FL 40' a X'XX" + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];80;80;;7;100;0;5;0
+1652;3;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1653;3;6;MARATONA;;FL 45' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];80;100;;7;100;0;5;0
+1654;4;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m. [se domenica gara ridurre tempo del 30%];80;0;;7;0;0;5;0
+1655;4;6;MARATONA;;FL 50' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1656;5;2;MARATONA;;FL 90' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;5;0
+1657;5;6;MARATONA;;FL 20' a X'XX" + CV 25' a X'XX" [se domenica gara ridurre tempo del 30%];80;100;;7;100;0;5;0
+1658;6;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1659;6;6;MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" [se domenica gara ridurre tempo del 30%];80;90;;7;0;0;5;0
+1660;7;2;MARATONA;4;FL 90' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1661;7;6;MARATONA;;FL 40' a X'XX" + FM 30' a X'XX" [se domenica gara ridurre tempo del 30%];80;90;;7;100;0;5;0
+1662;8;2;MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1663;8;6;MARATONA;;FL 40' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];80;100;;7;0;0;5;0
+1664;9;2;MARATONA;;FL 80' a X'XX" [Ritmo 88% della soglia] + Allunghi 10 x 100 m.;88;0;;7;0;0;5;0
+1665;9;6;MARATONA;;FL 40' a X'XX" + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];80;97;;7;0;0;5;0
+1666;10;2;MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia]  + Allunghi 10 x 100 m.;88;0;;7;0;0;5;0
+1667;10;6;MARATONA;;FL 20' a X'XX" + FL 30' a X'XX" (Ritmo Maratona)  + FM 20' a X'XX" [se domenica gara ridurre tempo del 30%];80;88;;7;90;0;5;0
+1668;11;2;MARATONA;4;FL 70' a X'XX" [Ritmo 88% della soglia]  + Allunghi 10 x 100 m.;88;0;;7;0;0;5;0
+1669;11;6;MARATONA;;FL 50' a X'XX" + CV 15' a X'XX"  [se domenica gara ridurre tempo del 30%];80;100;;7;100;0;5;0
+1670;12;2;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1671;12;6;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1672;13;2;MARATONA;;FL 80' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1673;13;6;MARATONA;;FL 60' a X'XX" + CV 15' a X'XX" [se domenica gara  ridurre tempo del 30%];88;100;;7;100;0;5;0
+1674;14;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1675;14;6;MARATONA;;FL 30' a X'XX" (Ritmo Maratona) + CV 25' a X'XX" [se domenica gara ridurre tempo del 30%];88;97;;7;100;0;5;0
+1676;15;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1677;15;6;MARATONA;;FL 40' a X'XX" (Ritmo Maratona) + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;100;0;5;0
+1678;16;2;MARATONA;4;FL 60' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1679;16;6;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1680;1;4;MARATONA;;FL 40' a X'XX" + FM 20' a X'XX";80;90;;7;100;0;5;0
+1681;2;4;MARATONA;;FL 35' a X'XX" + FM 25' a X'XX";80;80;;7;100;0;5;0
+1682;3;4;MARATONA;;FL 30' a X'XX" + FM 30' a X'XX";80;90;;7;100;0;5;0
+1683;4;4;MARATONA;;FL 35' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1684;5;4;MARATONA;;FL 30' a X'XX" + FM 30' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1685;6;4;MARATONA;;FL 40' a X'XX" + FM 30' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1686;7;4;MARATONA;;FL 40' a X'XX" + FM 30' a X'XX" in ambiente collinare;80;90;;7;0;0;5;0
+1687;8;4;MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1688;9;4;MARATONA;;FL 20' a X'XX" + FM 40' a X'XX";80;90;;7;0;0;5;0
+1689;10;4;MARATONA;;FL 20' a X'XX" + FM 45' a X'XX";80;90;;7;0;0;5;0
+1690;11;4;MARATONA;;FL 15' a X'XX" + FM 50' a X'XX";80;90;;7;0;0;5;0
+1691;12;4;MARATONA;;FL 35' a X'XX"  + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1692;13;4;MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;0;;7;0;0;5;0
+1693;14;4;MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1694;15;4;MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;5;0
+1695;16;4;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1696;17;2;MARATONA;;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1697;17;6;MARATONA;;FL 40' a X'XX" (Ritmo Maratona) + CV 15' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;100;0;5;0
+1698;18;2;MARATONA;4;FL 80' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1699;18;6;MARATONA;;FL 30' a X'XX" (Ritmo Maratona) + CV 25' a X'XX" [se domenica gara ridurre tempo del 30%];80;80;;7;100;0;5;0
+1700;19;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1701;19;6;MARATONA;;FL 40' a X'XX" (Ritmo Maratona) + CV 20' a X'XX" [se domenica gara ridurre tempo del 30%];88;100;;7;0;0;5;0
+1702;20;2;MARATONA;4;FL 70' a X'XX" + Allunghi 10 x 100 m.;80;0;;7;0;0;5;0
+1703;20;6;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX" oppure Riposo;80;100;;7;0;0;5;0
+1704;17;4;MARATONA;;FL 30' a X'XX" + FM 20' a X'XX" + CV 15' a X'XX";80;0;;7;0;0;5;0
+1705;18;4;MARATONA;;FL 30' a X'XX" + FM 25' a X'XX" + CV 15' a X'XX";80;90;;7;100;0;5;0
+1706;19;4;MARATONA;;FL 20' a X'XX" + FM 30' a X'XX" + CV 20' a X'XX";80;90;;7;100;0;5;0
+1707;20;4;MARATONA;;FL 20' a X'XX" + CV 10' a X'XX";80;100;;7;0;0;5;0
+1710;1;1;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1711;1;2;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1712;1;3;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1713;1;4;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1714;1;5;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1715;1;6;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1716;1;7;PRIMI PASSI;;5' camminata + 1' corsa a X'XX + 2' camminata x 10;85;;;7;;;1;5
+1717;2;1;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 7;85;;;7;;;1;5
+1718;2;2;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 7;85;;;7;;;1;5
+1719;2;3;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1720;2;4;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1721;2;5;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1722;2;6;PRIMI PASSI;;5' camminata + 2' corsa a X'XX + 2' camminata x 8;85;;;7;;;1;5
+1723;2;7;PRIMI PASSI;;5' camminata + 3' corsa a X'XX + 2' camminata x 6;85;;;7;;;1;5
+1724;3;1;PRIMI PASSI;;5' camminata + 5' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1725;3;2;PRIMI PASSI;;5' camminata + 5' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1726;3;3;PRIMI PASSI;;5' camminata + 10' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1727;3;4;PRIMI PASSI;;5' camminata + 10' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1728;3;5;PRIMI PASSI;;5' camminata + 10' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1729;3;6;PRIMI PASSI;;5' camminata + 10' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1730;3;7;PRIMI PASSI;;5' camminata + 15' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1731;4;1;PRIMI PASSI;;5' camminata + 15' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1732;4;2;PRIMI PASSI;;5' camminata + 15' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1733;4;3;PRIMI PASSI;;5' camminata + 20' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1734;4;4;PRIMI PASSI;;5' camminata + 20' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1735;4;5;PRIMI PASSI;;5' camminata + 20' corsa a X'XX + 5' camminata;85;;;1;;;1;5
+1736;4;6;PRIMI PASSI;;5' camminata + 20' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1737;4;7;PRIMI PASSI;;5' camminata + 25' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1738;5;1;PRIMI PASSI;;5' camminata + 25' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1739;5;2;PRIMI PASSI;;5' camminata + 25' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1740;5;3;PRIMI PASSI;;5' camminata + 25' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1741;5;4;PRIMI PASSI;;5' camminata + 25' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1742;5;5;PRIMI PASSI;;5' camminata + 30' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1743;5;6;PRIMI PASSI;;5' camminata + 30' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1744;5;7;PRIMI PASSI;;5' camminata + 30' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1745;6;1;PRIMI PASSI;;5' camminata + 30' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1746;6;2;PRIMI PASSI;;5' camminata + 30' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1747;6;3;PRIMI PASSI;;5' camminata + 35' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1748;6;4;PRIMI PASSI;;5' camminata + 35' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1749;6;5;PRIMI PASSI;;5' camminata + 35' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1750;6;6;PRIMI PASSI;;5' camminata + 35' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1751;6;7;PRIMI PASSI;;5' camminata + 40' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1752;7;1;PRIMI PASSI;;5' camminata + 40' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1753;7;2;PRIMI PASSI;;5' camminata + 40' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1754;7;3;PRIMI PASSI;;5' camminata + 40' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1755;7;4;PRIMI PASSI;;5' camminata + 40' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1756;7;5;PRIMI PASSI;;5' camminata + 45' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1757;7;6;PRIMI PASSI;;5' camminata + 45' corsa a X'XX + 5' camminata;85;;;7;;;1;5
+1758;7;7;PRIMI PASSI;;5' camminata + 45' corsa a X'XX + 5' camminata;85;;;7;;;1;5

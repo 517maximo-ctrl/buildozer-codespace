@@ -1,0 +1,338 @@
+#:kivy 2.1.0
+#:import dp kivy.metrics.dp
+
+<LoadingScreen>:
+    canvas.before:
+        Color:
+            rgba: 1, 1, 1, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    BoxLayout:
+        orientation: "vertical"
+        padding: dp(40)
+        spacing: dp(20)
+
+        Image:
+            source: "Images/AppRunner.png"
+            size_hint_y: None
+            height: dp(120)
+
+        Label:
+            text: "Loading..."
+            font_size: "24sp"
+            color: 0,0,0,1
+            halign: "center"
+            valign: "middle"
+            text_size: self.width, self.height
+
+
+# ---------------------------------------------------------
+#   SCHERMATA PRINCIPALE
+# ---------------------------------------------------------
+
+<ProgrammaScreen>:
+    canvas.before:
+        Color:
+            rgba: 1, 1, 1, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    ScrollView:
+        do_scroll_x: False
+        do_scroll_y: True
+
+        BoxLayout:
+            orientation: "vertical"
+            padding: dp(20)
+            spacing: dp(20)
+            size_hint_y: None
+            height: self.minimum_height
+
+            Image:
+                source: "Images/AppRunner.png"
+                size_hint_y: None
+                height: dp(80)
+
+            Label:
+                text: "Generatore Programma Allenamento"
+                font_size: "22sp"
+                color: 0,0,0,1
+                halign: "center"
+                valign: "middle"
+                text_size: self.width - dp(20), None
+                size_hint_y: None
+                height: self.texture_size[1]
+
+            TextInput:
+                id: atleta
+                hint_text: "Nome atleta"
+                size_hint_y: None
+                height: dp(50)
+
+            TextInput:
+                id: datainizio
+                hint_text: "Data inizio (YYYY-MM-DD)"
+                size_hint_y: None
+                height: dp(50)
+
+            TextInput:
+                id: datafine
+                hint_text: "Data fine (YYYY-MM-DD)"
+                size_hint_y: None
+                height: dp(50)
+
+            Spinner:
+                id: corsa
+                text: "Seleziona obiettivo"
+                values: ["CROSS","CORSA A TAPPE","CORSA IN MONTAGNA","MARATONA","MEZZA MARATONA","PRIMI PASSI","PREPARAZIONE BASE","STRADA 10-14 KM"]
+                size_hint_y: None
+                height: dp(50)
+
+            TextInput:
+                id: ritmo
+                hint_text: "Ritmo base (es. 4.30)"
+                size_hint_y: None
+                height: dp(50)
+
+            Label:
+                text: "Correzione velocità"
+                color: 0,0,0,1
+                size_hint_y: None
+                height: dp(30)
+
+            Spinner:
+                id: scala
+                text: "0"
+                values: ["10","7.5","5","2.5","0","-2.5","-5","-7.5","-10"]
+                size_hint_y: None
+                height: dp(50)
+
+            Label:
+                text: "Giorni di allenamento"
+                color: 0,0,0,1
+                size_hint_y: None
+                height: dp(30)
+
+            GridLayout:
+                cols: 2
+                size_hint_y: None
+                height: dp(200)
+                row_default_height: dp(30)
+                row_force_default: True
+
+                CheckBox:
+                    id: ch1
+                    active: True
+                Label:
+                    text: "Lunedì"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch2
+                    active: True
+                Label:
+                    text: "Martedì"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch3
+                    active: True
+                Label:
+                    text: "Mercoledì"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch4
+                    active: True
+                Label:
+                    text: "Giovedì"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch5
+                    active: True
+                Label:
+                    text: "Venerdì"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch6
+                    active: True
+                Label:
+                    text: "Sabato"
+                    color: 0,0,0,1
+
+                CheckBox:
+                    id: ch7
+                    active: True
+                Label:
+                    text: "Domenica"
+                    color: 0,0,0,1
+
+            Label:
+                text: "Domenica: Allenamento o Gara?"
+                color: 0,0,0,1
+                size_hint_y: None
+                height: dp(30)
+
+            Spinner:
+                id: tipo_domenica
+                text: "Allenamento"
+                values: ["Allenamento", "Gara"]
+                size_hint_y: None
+                height: dp(50)
+
+            Button:
+                text: "Genera Programma"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.genera_programma()
+
+            Label:
+                id: output
+                markup: True
+                color: 0,0,0,1
+                size_hint_y: None
+                height: self.texture_size[1] + dp(20)
+                halign: "left"
+                valign: "top"
+                text_size: self.width - dp(20), None
+
+            Button:
+                text: "Salva in PDF"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.salva_pdf()
+
+            Button:
+                text: "Apri PDF"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.apri_pdf()
+
+            Button:
+                text: "Condividi PDF"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.condividi_pdf()
+
+            BoxLayout:
+                orientation: "horizontal"
+                spacing: dp(20)
+                size_hint_y: None
+                height: dp(60)
+
+                Button:
+                    text: "Vai al sito"
+                    on_release: app.on_ref_press(None, "https://www.massimomoretti.it")
+
+                Button:
+                    text: "Chiudi"
+                    on_release: app.stop()
+
+            Button:
+                text: "Test di Cooper"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.manager.current = "cooper"
+
+
+# ---------------------------------------------------------
+#   SCHERMATA TEST DI COOPER
+# ---------------------------------------------------------
+
+<CooperScreen>:
+    canvas.before:
+        Color:
+            rgba: 1, 1, 1, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    ScrollView:
+        do_scroll_x: False
+        do_scroll_y: True
+
+        BoxLayout:
+            orientation: "vertical"
+            padding: dp(20)
+            spacing: dp(20)
+            size_hint_y: None
+            height: self.minimum_height
+
+            Image:
+                source: "Images/AppRunner.png"
+                size_hint_y: None
+                height: dp(80)
+
+            Label:
+                text: "TEST DI COOPER"
+                font_size: "24sp"
+                color: 0,0,0,1
+                size_hint_y: None
+                height: dp(40)
+
+            Label:
+                text: "[b]TEST DI KENNETH COOPER[/b]\n\nIl Test di Cooper è una prova di resistenza ideata negli anni ’60 dal medico americano Kenneth Cooper.\n\nConsiste nel correre per 12 minuti su un percorso pianeggiante cercando di percorrere la massima distanza possibile senza arrivare in affanno eccessivo.\n\nLa distanza percorsa (in metri) viene confrontata con tabelle basate su età e sesso per determinare lo stato di forma.\n\nIl metodo è stato sviluppato su oltre 23.000 test ed è particolarmente indicato per persone non allenate."
+                markup: True
+                color: 0,0,0,1
+                size_hint_y: None
+                height: self.texture_size[1] + dp(20)
+                text_size: self.width - dp(20), None
+                halign: "left"
+                valign: "top"
+
+            TextInput:
+                id: nome
+                hint_text: "Inserisci nome"
+                size_hint_y: None
+                height: dp(50)
+
+            Spinner:
+                id: age_spinner
+                text: "Seleziona fascia età"
+                values: ["Fino a 30","30-39","40-49","50+"]
+                size_hint_y: None
+                height: dp(50)
+                on_text: root.on_age_change(self,self.text)
+
+            Spinner:
+                id: sex_spinner
+                text: "Seleziona sesso"
+                values: ["Maschile","Femminile"]
+                size_hint_y: None
+                height: dp(50)
+                on_text: root.on_sex_change(self,self.text)
+
+            Spinner:
+                id: distance_spinner
+                text: "Seleziona distanza"
+                values: []
+                size_hint_y: None
+                height: dp(50)
+
+            Button:
+                text: "Calcola risultato"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.calculate_result()
+
+            Label:
+                id: result_label
+                markup: True
+                color: 0,0,0,1
+                size_hint_y: None
+                height: self.texture_size[1] + dp(20)
+                halign: "center"
+                valign: "middle"
+                text_size: self.width - dp(20), None
+                on_ref_press: app.on_ref_press(*args)
+
+            Button:
+                text: "Indietro"
+                size_hint_y: None
+                height: dp(60)
+                on_release: root.manager.current="programma"
