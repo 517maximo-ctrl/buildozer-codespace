@@ -11,13 +11,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Docker
-        run: sudo apt-get update && sudo apt-get install -y docker.io
-
-      - name: Build APK using Buildozer Docker
+      - name: Install Podman
         run: |
-          docker run --rm -v ${{ github.workspace }}:/home/buildozer/buildozer \
-            kivy/buildozer:latest \
+          sudo apt-get update
+          sudo apt-get install -y podman
+
+      - name: Build APK using Buildozer (Podman)
+        run: |
+          podman run --rm -v ${{ github.workspace }}:/home/buildozer/buildozer \
+            docker.io/kivy/buildozer:latest \
             buildozer -v android debug
 
       - name: Upload APK
