@@ -11,11 +11,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build with Buildozer
-        uses: ArtemSBulgakov/buildozer-action@v1.3.0
-        with:
-          workdir: .
-          buildozer_version: stable
+      - name: Install Docker
+        run: sudo apt-get update && sudo apt-get install -y docker.io
+
+      - name: Build APK using Buildozer Docker
+        run: |
+          docker run --rm -v ${{ github.workspace }}:/home/buildozer/buildozer \
+            kivy/buildozer:latest \
+            buildozer -v android debug
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
